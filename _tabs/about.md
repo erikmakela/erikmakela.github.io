@@ -9,7 +9,7 @@ order: 4
 
 # Erik Makela CV
 
-**Contact:** [contact.erikmakela.com](contact.erikmakela.com) | **website:** <https://erikmakela.com>
+**Contact:** <https://contact.erikmakela.com> | **website:** <https://erikmakela.com>
 
 ---
 
