@@ -55,7 +55,7 @@ order: 4
 - Investigate and resolve transaction inquiries by reviewing custodian data and account details
 - Monitor aged items and escalate unresolved breaks to internal teams or custodians
 
-### Costar Group – [Homes.com](http://Homes.com)
+### Costar Group – [Homes.com](https://Homes.com)
 
 **Sales Extern** | *May 2025*
 
