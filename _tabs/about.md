@@ -9,7 +9,7 @@ order: 4
 
 # Erik Makela CV
 
-**Email:** [erikmakelava@gmail.com](mailto:erikmakelava@gmail.com) | **website:** <https://erikmakela.com>
+**Contact:** [contact.erikmakela.com](contact.erikmakela.com) | **website:** <https://erikmakela.com>
 
 ---
 
