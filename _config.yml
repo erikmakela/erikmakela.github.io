@@ -41,13 +41,13 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Erik Makela
-  email: Firstname.Lastname.VA@gmail.com # change to your email address
+  #email: Firstname.Lastname.VA@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/erikmakela # change to your GitHub homepage
-    - https://twitter.com/erikmakelava # change to your Twitter homepage
-    - https://www.linkedin.com/in/erikmakela
-    - https://www.instagram.com/erikmakelava
+    - https://contact.erikmakela.com/ # change to your GitHub homepage
+    - https://contact.erikmakela.com/ # change to your Twitter homepage
+    - https://contact.erikmakela.com/ #Linkedin
+    - https://contact.erikmakela.com/ #Instagram
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     
