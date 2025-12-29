@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 # Erik Makela CV
 
 **Contact:** <https://contact.erikmakela.com> | **website:** <https://erikmakela.com>
