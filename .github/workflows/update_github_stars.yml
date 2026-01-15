@@ -38,6 +38,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
           git add _tabs/github_stars.md
           git commit -m "Update GitHub stars [skip ci]" || echo "No changes to commit"
+          
+          # Push using PAT inline in URL (no spaces, no quotes)
           git push https://$GH_TOKEN@github.com/${{ github.repository }} HEAD:${{ github.ref }}
