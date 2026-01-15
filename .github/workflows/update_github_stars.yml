@@ -1,9 +1,8 @@
 name: Update GitHub Stars
 
-# Trigger every day at midnight UTC and allow manual run
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -11,36 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
-      # Step 2: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
-      # Step 3: Install dependencies
       - name: Install dependencies
         run: pip install --upgrade pip requests
 
-      # Step 4: Run the fetch_stars.py script
       - name: Run fetch_stars.py
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Your personal access token
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python _data/fetch_stars.py
 
-      # Step 5: Commit and push changes
       - name: Commit and push updated stars
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           git add _tabs/github_stars.md
           git commit -m "Update GitHub stars [skip ci]" || echo "No changes to commit"
-          
-          # Push using PAT inline in URL (no spaces, no quotes)
-          git push https://$GH_TOKEN@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+          git push origin HEAD
