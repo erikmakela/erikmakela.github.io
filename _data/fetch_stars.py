@@ -10,6 +10,14 @@ OUTPUT_FILE = "_tabs/github_stars.md"
 # Ensure the output directory exists
 os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
+# --- Front matter for Chirpy ---
+FRONT_MATTER = """---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 5
+---
+"""
+
 # --- GitHub API headers ---
 headers = {
     "Accept": "application/vnd.github.star+json"
@@ -30,11 +38,16 @@ while url:
     stars.extend(r.json())
     url = r.links.get("next", {}).get("url")
 
-# --- Write Markdown file ---
+# --- Write Markdown file with front matter ---
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    # Add custom front matter first
+    f.write(FRONT_MATTER + "\n")
+    
+    # Add table header
     f.write("| Repository | Description | ⭐ Stars | ⭐ Starred On |\n")
     f.write("|------------|-------------|--------:|-------------|\n")
 
+    # Add each starred repository as a row
     for item in stars:
         repo = item["repo"]
         name = repo["full_name"]
