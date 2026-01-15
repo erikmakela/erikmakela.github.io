@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-| Repository | Description | ⭐ Stars | ⭐ Starred On |
+| Repository | ⭐ Starred On | ⭐ Stars | Description |
 |------------|-------------|--------:|-------------|
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers | 76253 | 2026-01-15 |
 | [TabbyML/tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | 32731 | 2026-01-14 |
@@ -24,7 +24,7 @@ order: 5
 | [lukesorvik/brainrotinator](https://github.com/lukesorvik/brainrotinator) | Podcast Clip Automation Using AI | 7 | 2026-01-11 |
 | [Supporterino/photo-organizer](https://github.com/Supporterino/photo-organizer) | A simple python script to sort or reorganise your collection of images or RAWs. Or just any files you want to sort by creation date. | 31 | 2026-01-09 |
 | [plausible/community-edition](https://github.com/plausible/community-edition) | Example Docker Compose setup for hosting Plausible Community Edition | 2233 | 2026-01-08 |
-| [DRYTRIX/TimeTracker](https://github.com/DRYTRIX/TimeTracker) |  | 529 | 2026-01-07 |
+| [DRYTRIX/TimeTracker](https://github.com/DRYTRIX/TimeTracker) |  | 530 | 2026-01-07 |
 | [strapi/strapi](https://github.com/strapi/strapi) | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. | 70968 | 2026-01-07 |
 | [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | Independent technology for modern publishing, memberships, subscriptions and newsletters. | 51591 | 2026-01-07 |
 | [transistorsoft/flutter_background_geolocation](https://github.com/transistorsoft/flutter_background_geolocation) | Sophisticated, battery-conscious background-geolocation & geofencing with motion-detection | 699 | 2026-01-07 |
@@ -42,7 +42,7 @@ order: 5
 | [openai/whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | 93187 | 2025-12-23 |
 | [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) | Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android | 1805 | 2025-12-23 |
 | [arp242/goatcounter](https://github.com/arp242/goatcounter) | Easy web analytics. No tracking of personal data. | 5400 | 2025-12-23 |
-| [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) | Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks. | 17936 | 2025-12-23 |
+| [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) | Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks. | 17937 | 2025-12-23 |
 | [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) | Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️  If you find this project helpful, please consider giving us a star ⭐️  | 3448 | 2025-12-23 |
 | [takara-ai/papers-api](https://github.com/takara-ai/papers-api) | A serverless RSS feed for HuggingFace's Daily Papers | 18 | 2025-12-20 |
 | [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) | Track GitHub trending repositories in your favorite programming language by native GitHub notifications! | 2856 | 2025-12-18 |
@@ -56,7 +56,7 @@ order: 5
 | [technext/exclusivity](https://github.com/technext/exclusivity) | For demo and downloads go to this link: | 3 | 2025-12-15 |
 | [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) | SuiteCRM - Open source CRM for the world | 5235 | 2025-12-12 |
 | [CodeStitchOfficial/Beginner-Website-Kit](https://github.com/CodeStitchOfficial/Beginner-Website-Kit) | This kit is for those just getting started in building websites.  We use only HTML and CSS with LESS and SCSS options.  Nothing else to complicate it.  This is as barebones as it get! This kit contains an entire website already built to use as a basis for a new website to build for a client.  | 56 | 2025-12-11 |
-| [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more | 64604 | 2025-12-11 |
+| [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more | 64605 | 2025-12-11 |
 | [omishah/portfolio-landing-page-html-bootstrap-template](https://github.com/omishah/portfolio-landing-page-html-bootstrap-template) | A beautiful, clean, minimal & responsive personal portfolio landing page HTML template designed using Bootstrap v5.2 | 18 | 2025-12-11 |
 | [arpan-banerjee7/book_landing_page](https://github.com/arpan-banerjee7/book_landing_page) | A landing page for book release/promotion made with html, sass and bootstrap. | 3 | 2025-12-11 |
 | [GetPublii/Publii](https://github.com/GetPublii/Publii) | The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites. | 7040 | 2025-12-11 |
@@ -74,14 +74,14 @@ order: 5
 | [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) | Fast, minimal blog with dark mode support. | 753 | 2025-12-09 |
 | [chrede88/qubt](https://github.com/chrede88/qubt) | Qubt - Personal blog theme for Hugo | 96 | 2025-12-09 |
 | [lxndrblz/anatole](https://github.com/lxndrblz/anatole) | Anatole is a minimalistic two-column theme for Hugo. | 727 | 2025-12-09 |
-| [gohugoio/hugo](https://github.com/gohugoio/hugo) | The world’s fastest framework for building websites. | 86033 | 2025-12-09 |
+| [gohugoio/hugo](https://github.com/gohugoio/hugo) | The world’s fastest framework for building websites. | 86034 | 2025-12-09 |
 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | real time face swap and one-click video deepfake with only a single image | 77817 | 2025-12-09 |
 | [flarum/framework](https://github.com/flarum/framework) | Simple forum software for building great communities. | 6664 | 2025-12-08 |
-| [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) | Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc. | 6451 | 2025-12-08 |
+| [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) | Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc. | 6452 | 2025-12-08 |
 | [undergroundwires/safe-email](https://github.com/undergroundwires/safe-email) | 🛡️📧 Protect e-mails against spam and scraping bots | 35 | 2025-12-08 |
 | [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) | A minimal, responsive, and feature-rich Jekyll theme for technical writing. | 9652 | 2025-12-08 |
-| [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers. | 49532 | 2025-12-07 |
-| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 | 26026 | 2025-12-07 |
+| [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers. | 49533 | 2025-12-07 |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 | 26027 | 2025-12-07 |
 | [YunoHost-Apps/libreerp_ynh](https://github.com/YunoHost-Apps/libreerp_ynh) | LibreERP package for YunoHost | 17 | 2025-12-07 |
 | [odoo/odoo](https://github.com/odoo/odoo) | Odoo. Open Source Apps To Grow Your Business. | 48440 | 2025-12-06 |
 | [googlefonts/literata](https://github.com/googlefonts/literata) | A contemporary serif typeface family for long-form reading | 308 | 2025-12-05 |
@@ -89,17 +89,17 @@ order: 5
 | [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) | Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore | 1118 | 2025-12-04 |
 | [datalad/git-annex](https://github.com/datalad/git-annex) | A non-official clone of git-annex established for DataLad purposes. No PRs will be merged, but could be used to test perspective git-annex patches. Official git-annex repository: https://git.kitenet.net/index.cgi/git-annex.git/ | 26 | 2025-12-04 |
 | [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) | Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding. | 13625 | 2025-11-26 |
-| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | 90939 | 2025-11-26 |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | 90941 | 2025-11-26 |
 | [compdemocracy/polis](https://github.com/compdemocracy/polis) | :milky_way: Open Source AI for large scale open ended feedback | 1027 | 2025-11-18 |
-| [bobranten/Ext4Fsd](https://github.com/bobranten/Ext4Fsd) | Ext4 file system driver for Windows | 1783 | 2025-11-17 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | DigitalPlat FreeDomain: Free Domain For Everyone | 140495 | 2025-11-14 |
+| [bobranten/Ext4Fsd](https://github.com/bobranten/Ext4Fsd) | Ext4 file system driver for Windows | 1784 | 2025-11-17 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | DigitalPlat FreeDomain: Free Domain For Everyone | 140502 | 2025-11-14 |
 | [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) | Download market data from Yahoo! Finance's API | 20757 | 2025-11-14 |
 | [searxng/searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | 24115 | 2025-11-14 |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | 75493 | 2025-11-14 |
 | [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) | Agent Zero AI framework | 13465 | 2025-11-14 |
-| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI | 28221 | 2025-11-14 |
+| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI | 28222 | 2025-11-14 |
 | [get-convex/chef](https://github.com/get-convex/chef) | The only AI app builder that knows backend | 4152 | 2025-11-12 |
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! | 19240 | 2025-11-12 |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! | 19241 | 2025-11-12 |
 | [LibraryOfCongress/api.congress.gov](https://github.com/LibraryOfCongress/api.congress.gov) | congress.gov API | 882 | 2025-11-11 |
 | [braladin/logseq-autolink-autotag](https://github.com/braladin/logseq-autolink-autotag) | A plugin for Logseq to auto-link pages and auto-tag blocks | 6 | 2025-10-30 |
 | [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) | ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place. | 16776 | 2025-10-13 |
@@ -107,7 +107,7 @@ order: 5
 | [Mentaleak/BetterStepsRecorder](https://github.com/Mentaleak/BetterStepsRecorder) | A better Steps Recorder | 23 | 2025-10-01 |
 | [maduce/fosscad-repo](https://github.com/maduce/fosscad-repo) | Official FOSSCAD Library Repository | 1748 | 2025-09-27 |
 | [SapplyValues/SapplyValues.github.io](https://github.com/SapplyValues/SapplyValues.github.io) |  | 68 | 2025-09-21 |
-| [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time | 59199 | 2025-09-16 |
+| [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time | 59200 | 2025-09-16 |
 | [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) | Utility for mass-downloading LRC synced lyrics for your offline music library. | 2193 | 2025-09-16 |
 | [awslabs/handwritten-text-recognition-for-apache-mxnet](https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet) | This repository lets you train neural networks models for performing end-to-end full-page handwriting recognition using the Apache MXNet deep learning frameworks on the IAM Dataset. | 524 | 2025-09-14 |
 | [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources, tools and other shiny things | 24955 | 2025-09-13 |
@@ -115,7 +115,7 @@ order: 5
 | [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) | Combustion engine simulation game that generates realistic audio. | 2729 | 2025-09-04 |
 | [adrianjagielak/home-assistant-futurehome](https://github.com/adrianjagielak/home-assistant-futurehome) | Futurehome add-on for Home Assistant. Designed to be a complete drop-in replacement for the official Futurehome app, with support for all device types compatible with the Futurehome hub. See the FAQ for more details. | 285 | 2025-08-31 |
 | [brendanw/ExitRatings](https://github.com/brendanw/ExitRatings) | Programmatically generate ratings for BASE jumping exit points | 2 | 2025-08-30 |
-| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. | 162611 | 2025-08-25 |
+| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. | 162613 | 2025-08-25 |
 | [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) | Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks! | 6376 | 2025-08-25 |
 | [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) | Your self hosted YouTube media server | 7416 | 2025-08-25 |
 | [Pankajtanwarbanna/hacker-hub](https://github.com/Pankajtanwarbanna/hacker-hub) | A personal collection of weird, fun, and practical projects I’ve built over the years | 30 | 2025-08-01 |
@@ -125,7 +125,7 @@ order: 5
 | [nathanbabcock/hypetrigger-site](https://github.com/nathanbabcock/hypetrigger-site) | A Next.js website, statically generated from JSON configs and data fetched from the IGDB API | 8 | 2025-07-13 |
 | [getbf2142/getbf2142-gitbook](https://github.com/getbf2142/getbf2142-gitbook) | GetBF2142 is a passion project created by die-hard fans of the franchise. Our goal is to provide all the resources and information you need in one place, so you can swiftly dive back into this 15-year-old gem and have a blast in no time!  | 2 | 2025-07-13 |
 | [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) | Double Commander is a free cross platform open source file manager with two panels side by side. | 3768 | 2025-07-11 |
-| [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. | 36566 | 2025-07-11 |
+| [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. | 36567 | 2025-07-11 |
 | [gpac/gpac](https://github.com/gpac/gpac) | GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery | 3184 | 2025-07-07 |
 | [pacexy/flow](https://github.com/pacexy/flow) | Browser-based ePub reader | 3020 | 2025-06-25 |
 | [marekzajac97/bf2-blender](https://github.com/marekzajac97/bf2-blender) | Blender Add-on for Battlefield 2™ | 19 | 2025-06-22 |
@@ -140,7 +140,7 @@ order: 5
 | [davidkingsman/split-flap](https://github.com/davidkingsman/split-flap) | code for split-flap display | 524 | 2025-05-25 |
 | [scottbez1/splitflap](https://github.com/scottbez1/splitflap) | DIY split-flap display | 3655 | 2025-05-25 |
 | [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) | 📇 Synchronize calendars and contacts. | 1739 | 2025-05-24 |
-| [mifi/lossless-cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing | 37169 | 2025-05-24 |
+| [mifi/lossless-cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing | 37170 | 2025-05-24 |
 | [MattMcManis/Axiom](https://github.com/MattMcManis/Axiom) | An FFmpeg GUI for Windows | 1680 | 2025-05-24 |
 | [BurguerJohn/Dain-App](https://github.com/BurguerJohn/Dain-App) | Source code for Dain-App | 1064 | 2025-05-17 |
 | [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) | Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet. | 15970 | 2025-05-17 |
@@ -150,8 +150,8 @@ order: 5
 | [4350pChris/slack-vuesualizer](https://github.com/4350pChris/slack-vuesualizer) | Display and search your Slack export | 115 | 2025-04-08 |
 | [itsToggle/rclone_RD](https://github.com/itsToggle/rclone_RD) | RClone Fork that implements RealDebrid | 214 | 2025-04-08 |
 | [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) | Real-Debrid Client Proxy | 1350 | 2025-04-08 |
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | 141801 | 2025-03-31 |
-| [Tichau/FileConverter](https://github.com/Tichau/FileConverter) | File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer. | 13336 | 2025-03-30 |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | 141803 | 2025-03-31 |
+| [Tichau/FileConverter](https://github.com/Tichau/FileConverter) | File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer. | 13337 | 2025-03-30 |
 | [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) | Bring macOS “Quick Look” feature to Windows | 21928 | 2025-03-21 |
 | [apps4av/avare](https://github.com/apps4av/avare) | Avare Aviation GPS for Android | 174 | 2025-03-15 |
 | [EternalBox/EternalJukebox](https://github.com/EternalBox/EternalJukebox) | The internal workings for the Eternal Jukebox, a rehosting of the Infinite Jukebox | 812 | 2025-03-14 |
@@ -167,7 +167,7 @@ order: 5
 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis | 33740 | 2025-02-18 |
 | [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) | LM Studio CLI | 4060 | 2025-02-08 |
 | [tabulapdf/tabula](https://github.com/tabulapdf/tabula) | Tabula is a tool for liberating data tables trapped inside PDF files | 7307 | 2025-02-06 |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 23666 | 2025-01-23 |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 23671 | 2025-01-23 |
 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) |  | 91702 | 2025-01-22 |
 | [evan-buss/openbooks](https://github.com/evan-buss/openbooks) | Search and Download eBooks | 2330 | 2025-01-15 |
 | [creativetimofficial/notus-svelte](https://github.com/creativetimofficial/notus-svelte) | Notus Svelte: Free Tailwind CSS UI Kit and Admin | 867 | 2025-01-09 |
@@ -195,7 +195,7 @@ order: 5
 | [Breta01/handwriting-ocr](https://github.com/Breta01/handwriting-ocr) | OCR software for recognition of handwritten text | 825 | 2024-10-24 |
 | [L2KSolkov/modmanager](https://github.com/L2KSolkov/modmanager) | BF2/BFHeroes/BF2142/BFP4F Modmanager | 5 | 2024-10-24 |
 | [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) | Disk encryption with strong security based on TrueCrypt | 8957 | 2024-10-24 |
-| [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. | 16976 | 2024-10-20 |
+| [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. | 16978 | 2024-10-20 |
 | [RandomEngy/VidCoder](https://github.com/RandomEngy/VidCoder) | A Blu-ray, DVD and video file transcoder for Windows. | 800 | 2024-10-18 |
 | [kachurovskiy/batchviproc](https://github.com/kachurovskiy/batchviproc) | Desktop batch video compression / processing tool | 16 | 2024-10-18 |
 | [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) | Export iMessage data + run iMessage Diagnostics | 4762 | 2024-10-14 |
@@ -215,11 +215,11 @@ order: 5
 | [anvaka/map-of-reddit](https://github.com/anvaka/map-of-reddit) | Interactive map of reddit | 824 | 2024-09-28 |
 | [breck7/scroll](https://github.com/breck7/scroll) | Scroll is a language for scientists of all ages. Scroll includes a command line app that builds static blogs, websites, CSVs, text files, and more. | 480 | 2024-09-28 |
 | [iyaja/llama-fs](https://github.com/iyaja/llama-fs) | A self-organizing file system with llama 3 | 5703 | 2024-09-28 |
-| [linexjlin/GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs | 31886 | 2024-09-28 |
+| [linexjlin/GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs | 31885 | 2024-09-28 |
 | [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) | 54075 | 2024-09-28 |
 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | The personal finance app for everyone | 53926 | 2024-09-28 |
 | [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-Sora: Democratizing Efficient Video Production for All | 28271 | 2024-09-28 |
-| [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. | 38693 | 2024-09-28 |
+| [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. | 38694 | 2024-09-28 |
 | [BasedHardware/OpenGlass](https://github.com/BasedHardware/OpenGlass) | Turn any glasses into AI-powered smart glasses | 3889 | 2024-09-28 |
 | [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) | Using GPT to parse PDF | 3558 | 2024-09-28 |
 | [voideditor/void](https://github.com/voideditor/void) |  | 28029 | 2024-09-28 |
@@ -229,7 +229,7 @@ order: 5
 | [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) | Deluge BitTorrent client - Git mirror, PRs only | 1725 | 2024-09-18 |
 | [FeroxFoxxo/MQReawakened](https://github.com/FeroxFoxxo/MQReawakened) | An open source emulation for the backend of MQ's servers, written from scratch with love! | 88 | 2024-09-15 |
 | [willuhmjs/forgetti](https://github.com/willuhmjs/forgetti) | Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software. | 18 | 2024-09-14 |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | 120685 | 2024-09-14 |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | 120686 | 2024-09-14 |
 | [Zoult/.ovpn](https://github.com/Zoult/.ovpn) | Free and open .ovpn files repository for OpenVPN Connect | 534 | 2024-09-06 |
 | [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) | Usenet meta search | 1538 | 2024-09-06 |
 | [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) | A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr | 2088 | 2024-09-05 |
@@ -240,7 +240,7 @@ order: 5
 | [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) |  | 2077 | 2024-09-01 |
 | [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) | Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs | 4571 | 2024-09-01 |
 | [flowershow/flowershow](https://github.com/flowershow/flowershow) | 💐 Create beautiful markdown-based websites, docs wikis and PKMs. | 1014 | 2024-09-01 |
-| [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) | This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. | 18475 | 2024-08-30 |
+| [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) | This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. | 18476 | 2024-08-30 |
 | [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) | Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications. | 4407 | 2024-08-26 |
 | [UseBetterCanvas/canvas-task-extension](https://github.com/UseBetterCanvas/canvas-task-extension) | A better To Do sidebar for Instructure Canvas! | 100 | 2024-08-26 |
 | [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) | Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#) | 1857 | 2024-08-24 |
@@ -254,7 +254,7 @@ order: 5
 | [PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia) | Flashy Synthesia Like Software For Linux, Windows and MacOs | 1353 | 2024-08-24 |
 | [pagekite/PyPagekite](https://github.com/pagekite/PyPagekite) | Python implementation of the PageKite remote front-end protocols. | 749 | 2024-08-24 |
 | [teticio/Deej-AI](https://github.com/teticio/Deej-AI) | Create automatic playlists by using Deep Learning to *listen* to the music. | 447 | 2024-08-24 |
-| [sxyazi/yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | 31493 | 2024-08-24 |
+| [sxyazi/yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | 31495 | 2024-08-24 |
 | [DarkNightMode/Dark-Night-Mode-Chrome-Extension](https://github.com/DarkNightMode/Dark-Night-Mode-Chrome-Extension) | Dark Night Mode is a free open source chrome extension which turns all the websites you browse into dark/night mode so that the white bright light do not strain your eyes. | 187 | 2024-08-24 |
 | [GameGodS3/DropPoint](https://github.com/GameGodS3/DropPoint) | Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows | 1073 | 2024-08-24 |
 | [Part-DB/Part-DB-server](https://github.com/Part-DB/Part-DB-server) | Part-DB is an Open source inventory management system for your electronic components | 1429 | 2024-08-24 |
@@ -306,7 +306,7 @@ order: 5
 | [cortezaproject/corteza](https://github.com/cortezaproject/corteza) | Low-code platform | 1983 | 2024-08-22 |
 | [Kareadita/Kavita](https://github.com/Kareadita/Kavita) | Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. | 9605 | 2024-08-22 |
 | [MartinStamenkovski/LibraryGenesis](https://github.com/MartinStamenkovski/LibraryGenesis) | Library Genesis iOS Client | 62 | 2024-08-22 |
-| [wallabag/wallabag](https://github.com/wallabag/wallabag) | wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. | 12363 | 2024-08-22 |
+| [wallabag/wallabag](https://github.com/wallabag/wallabag) | wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. | 12364 | 2024-08-22 |
 | [aseichter2007/ClipboardConqueror](https://github.com/aseichter2007/ClipboardConqueror) | Clipboard Conqueror is a novel copy and paste copilot alternative designed to bring your very own LLM AI assistant to any text field.   | 433 | 2024-08-21 |
 | [fisharebest/webtrees](https://github.com/fisharebest/webtrees) | Online genealogy | 695 | 2024-08-21 |
 | [Grafieks-Analytics/grafieks-desktop](https://github.com/Grafieks-Analytics/grafieks-desktop) | Simple business intelligence platform for data democratization | 19 | 2024-08-21 |
@@ -326,7 +326,7 @@ order: 5
 | [danielgatis/rembg](https://github.com/danielgatis/rembg) | Rembg is a tool to remove images background | 21541 | 2024-08-20 |
 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | Open-source JavaScript charting library behind Plotly and Dash | 18038 | 2024-08-20 |
 | [huxingyi/dust3d](https://github.com/huxingyi/dust3d) | Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more. | 3145 | 2024-08-20 |
-| [bevyengine/bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust | 44068 | 2024-08-20 |
+| [bevyengine/bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust | 44069 | 2024-08-20 |
 | [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) | A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration | 1175 | 2024-08-20 |
 | [dbader/large-type.com](https://github.com/dbader/large-type.com) | Display & share text in a large font, directly from your browser | 193 | 2024-08-19 |
 | [mr-mig/webbooost](https://github.com/mr-mig/webbooost) | Chrome extension for faster web browsing. | 89 | 2024-08-19 |
@@ -363,10 +363,10 @@ order: 5
 | [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) | Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi | 3056 | 2024-08-17 |
 | [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) | Video stabilization using gyroscope data | 8163 | 2024-08-17 |
 | [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) | Open movies everywhere | 353 | 2024-08-17 |
-| [w-okada/voice-changer](https://github.com/w-okada/voice-changer) | リアルタイムボイスチェンジャー Realtime Voice Changer | 19505 | 2024-08-17 |
+| [w-okada/voice-changer](https://github.com/w-okada/voice-changer) | リアルタイムボイスチェンジャー Realtime Voice Changer | 19508 | 2024-08-17 |
 | [gephi/gephi](https://github.com/gephi/gephi) | Gephi - The Open Graph Viz Platform | 6334 | 2024-08-17 |
 | [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | 5528 | 2024-08-17 |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference | 41619 | 2024-08-17 |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference | 41623 | 2024-08-17 |
 | [openrecall/openrecall](https://github.com/openrecall/openrecall) | OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy. | 2614 | 2024-08-17 |
 | [bisq-network/bisq](https://github.com/bisq-network/bisq) | A decentralized bitcoin exchange network | 5032 | 2024-08-17 |
 | [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) | 👀👮🐢🔥Performs a privacy & security check of Windows 10  | 3727 | 2024-08-17 |
@@ -400,7 +400,7 @@ order: 5
 | [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) | 🏞 A lightweight, versatile image viewer | 12022 | 2024-08-17 |
 | [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) | A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web! | 1032 | 2024-08-16 |
 | [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) | Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required. | 9604 | 2024-08-16 |
-| [yorukot/superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | 16361 | 2024-08-16 |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | 16360 | 2024-08-16 |
 | [fmhy/edit](https://github.com/fmhy/edit) | Make changes to FMHY | 7658 | 2024-08-16 |
 | [k0kubun/gitstar-ranking](https://github.com/k0kubun/gitstar-ranking) | GitHub star ranking for users, organizations and repositories | 801 | 2024-08-16 |
 | [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) | A self-paced course to learn Rust, one exercise at a time. | 8663 | 2024-08-16 |
@@ -414,7 +414,7 @@ order: 5
 | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | 77033 | 2024-08-15 |
 | [home-assistant/core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | 84165 | 2024-08-15 |
 | [sussy-code/smov](https://github.com/sussy-code/smov) | Sudo-flix's source code (Allegedly) | 935 | 2024-08-15 |
-| [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music streaming app! Available for both desktop & mobile! | 43646 | 2024-08-15 |
+| [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music streaming app! Available for both desktop & mobile! | 43647 | 2024-08-15 |
 | [KDE/filelight](https://github.com/KDE/filelight) | Quickly visualize your disk space usage | 240 | 2024-08-15 |
 | [adileo/squirreldisk](https://github.com/adileo/squirreldisk) | Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀 | 1533 | 2024-08-15 |
 | [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) | Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness. | 828 | 2024-08-15 |
@@ -432,17 +432,17 @@ order: 5
 | [Pulover/PuloversMacroCreator](https://github.com/Pulover/PuloversMacroCreator) | Automation Utility - Recorder & Script Generator | 1918 | 2024-08-14 |
 | [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) | A self-hosted open source photo management service. This is the repository of the backend. | 7902 | 2024-08-14 |
 | [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) | Hunt the most starred projects on any date on GitHub | 3078 | 2024-08-14 |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | 268210 | 2024-08-14 |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | 268212 | 2024-08-14 |
 | [nextcloud/ios](https://github.com/nextcloud/ios) | 📱 Nextcloud iOS App | 2327 | 2024-08-14 |
 | [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... | 26396 | 2024-08-14 |
-| [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. | 67523 | 2024-08-14 |
+| [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. | 67524 | 2024-08-14 |
 | [YunoHost-Apps/onlyoffice_ynh](https://github.com/YunoHost-Apps/onlyoffice_ynh) | OnlyOffice package for YunoHost | 20 | 2024-08-14 |
 | [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) | Anonymous email forwarding | 4364 | 2024-08-14 |
 | [blender/blender](https://github.com/blender/blender) | Official mirror of Blender | 17279 | 2024-08-14 |
 | [zz85/space-radar](https://github.com/zz85/space-radar) | Disk And Memory Space Visualization App built with Electron & d3.js | 1420 | 2024-08-14 |
 | [windirstat/windirstat](https://github.com/windirstat/windirstat) | WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows | 2590 | 2024-08-14 |
 | [gorhill/uMatrix](https://github.com/gorhill/uMatrix) | uMatrix: Point and click matrix to filter net requests according to source, destination and type | 4652 | 2024-08-14 |
-| [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | 60921 | 2024-08-14 |
+| [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | 60922 | 2024-08-14 |
 | [Synzvato/decentraleyes](https://github.com/Synzvato/decentraleyes) | This repository has a new home: https://git.synz.io/Synzvato/decentraleyes | 1459 | 2024-08-14 |
 | [git/git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 58559 | 2024-08-14 |
 | [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) | Mirror of https://git.ffmpeg.org/ffmpeg.git | 56256 | 2024-08-14 |
@@ -464,10 +464,10 @@ order: 5
 | [CollaboraOnline/online](https://github.com/CollaboraOnline/online) | Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.  | 2868 | 2024-08-14 |
 | [janeczku/calibre-web](https://github.com/janeczku/calibre-web) | :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database | 16337 | 2024-08-14 |
 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged document management system: scan, index and archive all your documents | 35601 | 2024-08-14 |
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API | 47681 | 2024-08-14 |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API | 47682 | 2024-08-14 |
 | [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | 13946 | 2024-08-14 |
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks | 127924 | 2024-08-14 |
-| [zotero/zotero](https://github.com/zotero/zotero) | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources. | 13205 | 2024-08-14 |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks | 127925 | 2024-08-14 |
+| [zotero/zotero](https://github.com/zotero/zotero) | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources. | 13206 | 2024-08-14 |
 | [winscp/winscp](https://github.com/winscp/winscp) | WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly interface and automation options like .NET assembly. | 3422 | 2024-08-14 |
 | [videolan/vlc](https://github.com/videolan/vlc) | VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc | 17363 | 2024-08-14 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | 105728 | 2024-08-14 |
@@ -477,14 +477,14 @@ order: 5
 | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client | 35001 | 2024-08-14 |
 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | 69709 | 2024-08-14 |
 | [VSCodium/vscodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | 29771 | 2024-08-14 |
-| [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) | Notepad++ official repository | 26729 | 2024-08-14 |
+| [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) | Notepad++ official repository | 26730 | 2024-08-14 |
 | [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) | GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience | 199 | 2024-08-14 |
 | [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) | A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/forum/). Last free version for commercial use: https://github.com/hkneptune/FreeFileSync/releases/tag/v12.5 | 1291 | 2024-08-14 |
-| [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | Everything integration for the Windows taskbar. | 13136 | 2024-08-14 |
+| [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | Everything integration for the Windows taskbar. | 13137 | 2024-08-14 |
 | [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) | CrystalDiskInfo | 2784 | 2024-08-14 |
 | [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | 23370 | 2024-08-14 |
 | [mean00/avidemux2](https://github.com/mean00/avidemux2) | Avidemux2, simple video editor | 851 | 2024-08-14 |
-| [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) | Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface | 673 | 2024-08-14 |
+| [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) | Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface | 674 | 2024-08-14 |
 | [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) | Generate interactive, beautiful and insightful chat analysis reports | 1025 | 2024-08-14 |
 | [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) | Reduces eye strain by adjusting screen gamma based on the current time | 2587 | 2024-08-14 |
 | [peazip/PeaZip](https://github.com/peazip/PeaZip) | Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard. | 6754 | 2024-08-14 |
@@ -502,7 +502,7 @@ order: 5
 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization | 79053 | 2024-08-12 |
 | [LibreOffice/core](https://github.com/LibreOffice/core) | Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead | 3585 | 2024-08-12 |
 | [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) | ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. | 6129 | 2024-08-12 |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 169036 | 2024-08-12 |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 169042 | 2024-08-12 |
 | [monicahq/monica](https://github.com/monicahq/monica) | Personal CRM. Remember everything about your friends, family and business relationships. | 24064 | 2024-08-12 |
 | [Jackett/Jackett](https://github.com/Jackett/Jackett) | API Support for your favorite torrent trackers | 14719 | 2024-08-12 |
 | [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | 89072 | 2024-08-12 |
@@ -518,19 +518,19 @@ order: 5
 | [pulsejet/memories](https://github.com/pulsejet/memories) | Fast, modern and advanced photo management suite. Runs as a Nextcloud app. | 3670 | 2024-08-09 |
 | [nubix/ClickmonitorDDC](https://github.com/nubix/ClickmonitorDDC) | Rehost of ClickmonitorDDC | 192 | 2024-08-07 |
 | [sidneys/desktop-dimmer](https://github.com/sidneys/desktop-dimmer) | Enable darker-than-dark dimming for internal and external screens. | 395 | 2024-08-07 |
-| [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | Easily manage the brightness of your monitors in Windows from the system tray | 7796 | 2024-08-07 |
+| [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | Easily manage the brightness of your monitors in Windows from the system tray | 7797 | 2024-08-07 |
 | [nathom/streamrip](https://github.com/nathom/streamrip) | A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer | 4286 | 2024-08-06 |
 | [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). | 23574 | 2024-08-06 |
 | [miraclx/freyr-js](https://github.com/miraclx/freyr-js) | A tool for downloading songs from music streaming services like Spotify and Apple Music. | 2170 | 2024-08-06 |
 | [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) | Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server | 1290 | 2024-08-03 |
 | [logseq/logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267 | 40316 | 2024-07-24 |
-| [jackyzha0/quartz](https://github.com/jackyzha0/quartz) | 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites | 10956 | 2024-07-10 |
+| [jackyzha0/quartz](https://github.com/jackyzha0/quartz) | 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites | 10957 | 2024-07-10 |
 | [JHubi1/YouShazam](https://github.com/JHubi1/YouShazam) | A simple Shazam downloader. | 10 | 2024-07-09 |
 | [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) | Saves Discord chat logs to a file | 9977 | 2024-07-07 |
 | [ActivityWatch/aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) | Track your keypresses and mouse movements with ActivityWatch | 148 | 2024-07-07 |
 | [apirrone/Memento](https://github.com/apirrone/Memento) | Memento is a Python app that records everything you do on your computer and lets you go back in time, search, and chat with a LLM (Large Language Model) to find back information about what you did. | 650 | 2024-05-23 |
 | [naren200/naren200.github.io](https://github.com/naren200/naren200.github.io) | Portfolio | 10 | 2024-03-24 |
-| [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | Ultralytics YOLO 🚀 | 51201 | 2024-01-29 |
+| [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | Ultralytics YOLO 🚀 | 51206 | 2024-01-29 |
 | [devmount/third-stats](https://github.com/devmount/third-stats) | Thunderbird add-on turning your emails into beautifully visualized email account stats. | 254 | 2022-11-19 |
 | [PetervanLunteren/AddaxAI](https://github.com/PetervanLunteren/AddaxAI) | Simplify camera trap image analysis with AI species recognition models based around the MegaDetector model | 159 | 2022-11-14 |
 | [Dankr4d/BF2142Unlocker](https://github.com/Dankr4d/BF2142Unlocker) | This project aims to unlock all weapons in BF2142 (coop/lan mode). You can equip/customize your soldier ingame. | 41 | 2022-07-14 |
