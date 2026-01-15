@@ -2,18 +2,23 @@ import requests
 import os
 from datetime import datetime
 
+# --- Config ---
 USERNAME = "erikmakela"
-TOKEN = os.getenv("GH_TOKEN")  # Optional: "ghp_xxxxxxxxxxxxxxxxxxxx"
+TOKEN = os.getenv("GH_TOKEN")  # Personal access token from repo secrets
 OUTPUT_FILE = "_tabs/github_stars.md"
 
+# Ensure the output directory exists
+os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+
+# --- GitHub API headers ---
 headers = {
-    # Required to get `starred_at`
     "Accept": "application/vnd.github.star+json"
 }
 
 if TOKEN:
     headers["Authorization"] = f"token {TOKEN}"
 
+# --- Fetch starred repositories ---
 url = f"https://api.github.com/users/{USERNAME}/starred"
 params = {"per_page": 100}
 
@@ -25,6 +30,7 @@ while url:
     stars.extend(r.json())
     url = r.links.get("next", {}).get("url")
 
+# --- Write Markdown file ---
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("| Repository | Description | ⭐ Stars | ⭐ Starred On |\n")
     f.write("|------------|-------------|--------:|-------------|\n")
@@ -35,13 +41,8 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         link = repo["html_url"]
         desc = (repo["description"] or "").replace("\n", " ")
         star_count = repo["stargazers_count"]
-        starred_at = datetime.fromisoformat(
-            item["starred_at"].replace("Z", "+00:00")
-        ).date()
+        starred_at = datetime.fromisoformat(item["starred_at"].replace("Z", "+00:00")).date()
 
-        f.write(
-            f"| [{name}]({link}) | {desc} | {star_count} | {starred_at} |\n"
-        )
+        f.write(f"| [{name}]({link}) | {desc} | {star_count} | {starred_at} |\n")
 
 print(f"Saved {len(stars)} starred repositories to {OUTPUT_FILE}")
-
