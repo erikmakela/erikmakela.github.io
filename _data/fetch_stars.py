@@ -4,7 +4,7 @@ from datetime import datetime
 
 USERNAME = "erikmakela"
 TOKEN = os.getenv("GH_TOKEN")  # Optional: "ghp_xxxxxxxxxxxxxxxxxxxx"
-OUTPUT_FILE = "github_stars.md"
+OUTPUT_FILE = "_tabs/github_stars.md"
 
 headers = {
     # Required to get `starred_at`
@@ -44,3 +44,4 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         )
 
 print(f"Saved {len(stars)} starred repositories to {OUTPUT_FILE}")
+
