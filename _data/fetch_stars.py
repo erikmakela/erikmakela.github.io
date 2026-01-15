@@ -44,7 +44,7 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write(FRONT_MATTER + "\n")
     
     # Add table header
-    f.write("| Repository | Description | ⭐ Stars | ⭐ Starred On |\n")
+    f.write("| Repository | ⭐ Starred On | ⭐ Stars | Description |\n")
     f.write("|------------|-------------|--------:|-------------|\n")
 
     # Add each starred repository as a row
@@ -52,10 +52,13 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         repo = item["repo"]
         name = repo["full_name"]
         link = repo["html_url"]
-        desc = (repo["description"] or "").replace("\n", " ")
-        star_count = repo["stargazers_count"]
         starred_at = datetime.fromisoformat(item["starred_at"].replace("Z", "+00:00")).date()
+        star_count = repo["stargazers_count"]
+        desc = (repo["description"] or "").replace("\n", " ")
+        
+        
 
         f.write(f"| [{name}]({link}) | {desc} | {star_count} | {starred_at} |\n")
 
 print(f"Saved {len(stars)} starred repositories to {OUTPUT_FILE}")
+
