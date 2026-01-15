@@ -58,7 +58,8 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         
         
 
-        f.write(f"| [{name}]({link}) | {desc} | {star_count} | {starred_at} |\n")
+        f.write(f"| [{name}]({link}) | {starred_at} | {star_count} | {desc} |\n")
 
 print(f"Saved {len(stars)} starred repositories to {OUTPUT_FILE}")
+
 
