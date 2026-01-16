@@ -6,7 +6,7 @@ order: 4
 
 # Erik Makela CV
 
-**Contact:** <https://contact.erikmakela.com> | **website:** <https://erikmakela.com> | Address: 5301 Marlington Dr, Virginia Beach, VA 23462 | DOB Date of Birth: May, 26th, 2001
+**Contact:** <https://contact.erikmakela.com> | **website:** <https://erikmakela.com> | Address: 649 Newtown Rd Ste 105, Virginia Beach, VA 23462 | DOB Date of Birth: May, 26th, 2001
 
 ---
 
