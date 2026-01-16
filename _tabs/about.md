@@ -95,6 +95,8 @@ order: 4
 
 ### Creator - Ability to utilize a variety of application suites to create different end products depending upon Project needs - Adobe Premier Pro, Hitfilm Pro, Vegas Movie Studiom Davinci Resolve, Adobe Photoshop, Adobe Audition
 
+### Web Development - HTML, CSS, Markdown, Adobe Dreamweaver
+
 <details>
   <summary></summary>
   DOB Date of Birth: 2002-01-18</br>
@@ -178,5 +180,3 @@ order: 4
   Password: fM1#Q8p!R2x^L6b$H4t@K9v*J3n%S7d+E0y=G5c~W2r?N8m!C6s@T1k#O4l^Y7j$I9h*P0a%U3e+V5g=F2q~Z8u?D9w!X1z@</br>
   Password: X6k!F2n@L9r^H4p$V7s#T1w*J8m%Q3d+E5y=G0b~C6v?S9f!R2j@O4l#Y7h^I1a$N8e*U3c%M5t+P0g=K2q~D9u?W6z!</br>
 </details>
-
-### Web Development - HTML, CSS, Markdown, Adobe Dreamweaver
