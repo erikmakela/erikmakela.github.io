@@ -1,5 +1,5 @@
 ---
-title: Death by Wall: The Saint Valentine's Day Massacre
+title: Death by Wall. The Saint Valentine's Day Massacre
 description: True Crime Essay for Professor Steffani Dambrunch
 date: 2022-01-26 05:00:00 -0500
 categories: []
