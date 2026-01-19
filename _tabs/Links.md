@@ -87,7 +87,7 @@ order: 6
         - [Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength (Second Edition): Low, Steven](https://www.amazon.com/Overcoming-Gravity-Systematic-Gymnastics-Bodyweight/dp/0990873854)
         - [Be Patient When Exercising Nerve Damage](https://www.sandiegouniontribune.com/news/health/sdut-be-patient-when-exercising-damaged-nerve-2012mar27-story.html)
     - #### Food and Meal Preperation
-        - [What The Fuck Should I Make For Dinner](http://whatthefuckshouldimakefordinner.com/)
+        - [What The Fuck Should I Make For Dinner](https://whatthefuckshouldimakefordinner.com/)
         - [Metabolical: The Lure and the Lies of Processed Food, Nutrition and Modern Medicine―Unpacking the Science Behind Food and Health: Lustig, Robert H.](https://www.amazon.com/Metabolical-Processed-Nutrition-Modern-Medicine/dp/0063027712)
         - [Budget Bytes Website](https://www.budgetbytes.com/)
         - [Efficiency is Everything Cookbook](https://efficiencyiseverything.com/The-Cookbook-v-1.4.pdf)
@@ -108,4 +108,5 @@ order: 6
         - [What to do when you don't know what you want in life?](https://www.reddit.com/r/LifeProTips/comments/1abx0eq/lpt_what_to_do_when_you_dont_know_what_you_want/)
         - [When You Just Ain’t Got it All Together](https://www.youtube.com/watch?v=U0-ttGGB7b4)
         - [Are you just living day to day?](https://youtu.be/amXl7FG7J4c?si=Q-G1td32bfvUt-Ld)
+
         - [The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy Self: Easter, Michael: 9780593138762: Amazon.com: Books](https://www.amazon.com/Comfort-Crisis-Embrace-Discomfort-Reclaim/dp/0593138767)
