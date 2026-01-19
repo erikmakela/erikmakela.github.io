@@ -7,7 +7,7 @@ tags: [nonprofit, ethics, leadership, self-governance, philanthropy]
 pin: false  
 math: true  
 mermaid: true
-image: aseets/2025-12-11-Make-a-Nonprofit-Organization.jpg
+image: assets/2025-12-11-Make-a-Nonprofit-Organization.jpg
 ---
 Making corporations and nonprofits are extremely easy in Virginia. Here's a quick step by step guide. (P.S. I am not a lawyer or CPA)
 
