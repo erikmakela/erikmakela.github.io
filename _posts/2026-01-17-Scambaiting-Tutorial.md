@@ -23,7 +23,7 @@ What is [Scam baiting](https://en.wikipedia.org/wiki/Scam_baiting)? "Scambaiters
 - [Joe Scambait](https://www.youtube.com/user/joeg1725/featured)
 
 ### 1. Download the newest version of [VMware Workstation Pro](https://knowledge.broadcom.com/external/article/368667/download-and-license-vmware-desktop-hype.html). 
-(Note: Be prepared to have a brain hemorrhage by [how difficult they make downloading]([Pre-made Windows 10 Scambaiting Virtual Machine (2022) - Information - Scammer.Info](https://scammer.info/t/pre-made-windows-10-scambaiting-virtual-machine-2022/89405/42)) LITERALLY FREE software)
+(Note: Be prepared to have a brain hemorrhage by [how difficult they make downloading][Pre-made Windows 10 Scambaiting Virtual Machine (2022) - Information](https://scammer.info/t/pre-made-windows-10-scambaiting-virtual-machine-2022/89405/42) LITERALLY FREE software)
 
 ### 2. Download the pre-made Pre-made [Windows 11 Scambaiting Virtual Machine](https://scammer.info/t/pre-made-windows-11-scambaiting-virtual-machine/81996)
 
