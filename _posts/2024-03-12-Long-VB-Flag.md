@@ -7,7 +7,8 @@ tags: [flag-design, vexillology, urban-identity, virginia-beach, civic-pride]
 pin: false
 math: true
 mermaid: true
-image: /assets/2024-03-12-Long-VB-Flag.png
+image:
+  path: /assets/2024-03-12-Long-VB-Flag.png
 ---
 
 Greetings City Council Members of Virginia Beach,
