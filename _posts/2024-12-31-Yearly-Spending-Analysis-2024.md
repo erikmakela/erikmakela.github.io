@@ -7,7 +7,7 @@ tags: [spending-analysis, budgeting, personal-finance, yearly-report, data-break
 pin: false
 math: true
 mermaid: true
-image: assets/2024-12-31-Yearly-Spending- Analysis-2024.jpg
+image: assets/2024-12-31-Yearly-Spending-Analysis-2024.jpg
 ---
 Subsidized cost by others: Housing, Wifi, Electricity, Water, Telephone, Car Insurance / Registration
 
