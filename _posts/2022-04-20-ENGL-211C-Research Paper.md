@@ -1,5 +1,5 @@
 ---
-title: Fuck, Online: An Analysis of Online Pornography Use
+title: Fuck, Online. An Analysis of Online Pornography Use
 description: Research Paper for Steffani Dambruch
 date: 2022-04-20 05:00:00 -0500
 categories: []
