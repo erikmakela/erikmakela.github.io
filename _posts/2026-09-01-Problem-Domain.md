@@ -1,6 +1,6 @@
 ---
 title: Problem Domains  
-description: Excerpt from Operating Systems: From 0 to 1 - GitHub   
+description: Excerpt from Operating Systems From 0 to 1   
 date: 2025-11-03 05:00:00 -0500  
 categories: []  
 tags: [software-engineering, problem-domains, domain-knowledge, system-design, programming-theory]  
