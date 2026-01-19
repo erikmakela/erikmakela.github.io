@@ -7,7 +7,7 @@ tags: [les-miserables, film-production, sound-mixing, on-set-audio, microphone-s
 pin: false  
 math: true  
 mermaid: true
-image: assets/2025-01-10-Les-Misérables-Microphone-Setup.png
+image: assets/2025-01-10-Les-Miserables-Microphone-Setup.png
 ---
 Screenshot taken from [Les Misérables - On Set: Sound & Mixing Featurette](https://www.youtube.com/watch?v=aCfJZgd0WVQ)
 That's how close it is.
