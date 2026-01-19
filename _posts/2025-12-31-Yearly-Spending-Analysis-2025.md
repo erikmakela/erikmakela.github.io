@@ -7,7 +7,7 @@ tags: [spending-analysis, budgeting, personal-finance, yearly-report, expense-br
 pin: false
 math: true
 mermaid: true
-image: /assets/2025-12-31-Yearly-Spending- Analysis-2025.jpg
+image: /assets/2025-12-31-Yearly-Spending-Analysis-2025.jpg
 ---
 Bank of Choice: Chase Bank
 Subsidized cost by parents: Housing, Wifi, Electricity, Water, Telephone
