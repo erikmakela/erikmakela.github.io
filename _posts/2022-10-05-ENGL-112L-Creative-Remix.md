@@ -1,5 +1,5 @@
 ---
-title: Creative Remix: "The Story of Half an Hour"
+title: Creative Remix "The Story of Half an Hour"
 description: Creative Remix for Professor Cheryl Champagne
 date: 2022-10-05 05:00:00 -0500
 categories: []
