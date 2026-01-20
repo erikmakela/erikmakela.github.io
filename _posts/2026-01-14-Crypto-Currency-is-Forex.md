@@ -14,11 +14,12 @@ However, Bitcoin and other decentralized currencies with those improving the cod
 Cash, after all is a medium of exchange. Even at banks, where most of your cash is insured by FDIC. The FDIC states that "FDIC insurance is backed by the full faith and credit of the United States government.". The USA even has a credit rating attached to them by Moody.
 Bitcoin in particular [revolutionized](https://bitcoin.org/bitcoin.pdf) the way we think about trustless based transactions.
 
-The way I like to think about cryptocurrency is to think about it as a forex (or foreign exchange)
+## The way I like to think about cryptocurrency is to think about it as a forex (or foreign exchange)
+
 > A country is a collection of people
-> 
+>
 > The country declares a currency
-> 
+>
 > People within the country get rewarded with currency by doing work (physical)
 
 > The internet is a collection of people
@@ -27,18 +28,21 @@ The way I like to think about cryptocurrency is to think about it as a forex (or
 >
 > People within the internet ger rewarded with currency by doing work (digital proof-of-work)
 
-The two way you are able to acquire cryptocurrency? 
+The two way you are able to acquire cryptocurrency?
+
 1. Contribute computational power and get rewarded in the cryptocurrency
 2. Exchange it and buy it with your own currency
 
 The two ways to acquire foreign currency?
+
 1. Do work in the country and get paid in their local currency
 2. Exchange it and buy it with your own currency
 
-A forex transaction example:
+## A Forex Transaction Example
+
 USD > USD/BTC > BTC > BTC/USD > USD
+
 USD > USD/JPY > JPY > JPY/USD > YSD
-(If you want a very long description on mediums of exchange the first chapter of 'Das Kapital' is pure economic theory and describes the theory of exchange)
 
 By all accounts there is nothing technically different between the Japanese Yen and Bitcoin. The only difference is your perception of the country behind it and the 'credit worthiness' of the entities that creates money.
 

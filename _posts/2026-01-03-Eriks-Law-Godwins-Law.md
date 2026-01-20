@@ -19,6 +19,7 @@ AI is the extreme to which a human process can be replicated by a machine. Or in
 I'm using AI in the general sense in regard to Neural Networks or Large Language Models.
 
 Here are some examples for how a conversation would unfold under the law:
+
 - Cars > Self Driving Cars > Image Detection > AI
 - Computers > Electricity Cost > Data Centers > AI
 - Digital Task Automation > Digital Process Automation > AI agent automation
@@ -28,4 +29,3 @@ Here are some examples for how a conversation would unfold under the law:
 - Food > Chef Robots > Robotic Automation > AI
 - Therapy > Therapy Tuned LLM Models > AI
 - Social media > Recommendation Algorithms > AI
-

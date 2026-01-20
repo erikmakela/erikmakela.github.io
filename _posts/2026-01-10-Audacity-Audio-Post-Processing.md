@@ -13,13 +13,20 @@ This is Mike Russell's Video "5 EASY Steps For Sounding Better in Audacity". How
 The fomat is ENCNL.
 
 1. Equalize
-Effect > EQ and Filter > Filter Curve EQ
-Lows: Drop -18db from 100hz to 60z
-Mid-Range: Peak at 200hz of 1.5db. Rounding from 100hz-300hz
-Nasal: Drop -1.5db at 1000hz. Round from 600hz-2000hz
-Highs: Increase 6db from 400hz to 6100 hz
 
-2. Normalize 
+    - Effect > EQ and Filter > Filter Curve EQ
+    - Lows: Drop -18db from 100hz to 60z
+    - Mid-Range: Peak at 200hz of 1.5db. Rounding from 100hz-300hz
+    - Nasal: Drop -1.5db at 1000hz. Round from 600hz-2000hz
+    - Highs: Increase 6db from 400hz to 6100 hz
+
+    Effect > EQ and Filter > Filter Curve EQ > Presets & settings > Import this below as a text file
+
+    ```txt
+    FilterCurve:f0="59.249598" f1="98.876258" f2="137.07937" f3="198.621" f4="295.5167" f5="999.43922" f6="3997.4965" f7="4984.8605" FilterLength="8191" InterpolateLin="0" InterpolationMethod="B-spline" v0="-40.151863" v1="-0.060172081" v2="1.7621775" v3="1.9140396" v4="-0.060172081" v5="-1.5787964" v6="-0.060172081" v7="6.1661892"
+    ```
+
+2. Normalize
 Effect > Volume and Compression > Normalize
 Peak Amplitude to -1dB
 
@@ -38,9 +45,6 @@ Peak Amplitude to -1dB
 Effect > Volume and Compression > Limiter
 
 
-Present in plain text (I exported this .txt file from audacity):
-Effect > EQ and Filter > Filter Curve EQ > Presets & settings > Import
-`FilterCurve:f0="59.249598" f1="98.876258" f2="137.07937" f3="198.621" f4="295.5167" f5="999.43922" f6="3997.4965" f7="4984.8605" FilterLength="8191" InterpolateLin="0" InterpolationMethod="B-spline" v0="-40.151863" v1="-0.060172081" v2="1.7621775" v3="1.9140396" v4="-0.060172081" v5="-1.5787964" v6="-0.060172081" v7="6.1661892"`
 
 You can also [support Mike Russell](https://musicradiocreative.com/search?type=product&q=audacity*) by buying the preset that he has probably better fine tuned.
 - His blog: [https://producer.musicradiocreative.com/5-steps-to-sound-better/](https://producer.musicradiocreative.com/5-steps-to-sound-better/)

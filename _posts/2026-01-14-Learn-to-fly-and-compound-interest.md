@@ -16,5 +16,3 @@ However, one day I was playing with another friend, and we were having a competi
 I realize now this was the first time I was introduced to the concept of the **compound effect**.
 
 It was more advantageous to spend now because even though you had a marginal loss now the gain overtime would outweigh the cost that you spend. And you would be significantly better off at a point of time in the future.
-
-

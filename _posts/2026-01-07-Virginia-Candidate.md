@@ -9,7 +9,7 @@ math: true
 mermaid: true
 image: /assets/2026-01-07-Virginia-Candidate.png
 ---
-**Building Your "Universe" (How You Get to 51%)**
+## **Building Your "Universe" (How You Get to 51%)**
 
 Every campaign starts with defining the universe of voters you need to win.
 
@@ -19,7 +19,7 @@ Every campaign starts with defining the universe of voters you need to win.
   - Persuasion: convincing undecided or soft voters to choose you
 - Winning is about math, not vibes. Know how many votes you need and where they come from
 
-**Voter Data in Virginia**
+## **Voter Data in Virginia**
 
 - Virginia Democrats use **NGP VAN (Voter Action Network)** to manage voter data
 - VAN data is accessed through or purchased via the party and is essential for:
@@ -28,7 +28,7 @@ Every campaign starts with defining the universe of voters you need to win.
   - Building turnout plans
 - Even in non-partisan races, **party data is often the best available data**
 
-**Picking a Camp (Even in Non-Partisan Races)**
+## **Picking a Camp (Even in Non-Partisan Races)**
 
 Local races may be non-partisan on the ballot-but they are not neutral in practice.
 
@@ -46,22 +46,22 @@ Local races may be non-partisan on the ballot-but they are not neutral in practi
 **Key takeaway:**  
 You don't win local races alone and you don't win them without data.
 
-**What Elected Officials Actually Do (By Level)**
+## **What Elected Officials Actually Do (By Level)**
 
-**Federal (Congress / Senate)**
+### **Federal (Congress / Senate)**
 
 - Vote on federal legislation
 - Constituent services with federal agencies
 - Oversight of federal programs
 - National policy focus
 
-**State (General Assembly / Statewide)**
+### **State (General Assembly / Statewide)**
 
 - State laws and budget
 - Education, transportation, public safety policy
 - Oversight of state agencies
 
-**Local (City Council / School Board)**
+### **Local (City Council / School Board)**
 
 - Land use, zoning, development
 - Schools (School Board)
@@ -72,9 +72,9 @@ You don't win local races alone and you don't win them without data.
 **Rule of thumb:**  
 Local voters expect **problem-solvers**, not ideologues.
 
-**Critical Virginia Campaign Basics (Know These Early)**
+## **Critical Virginia Campaign Basics (Know These Early)**
 
-**Filing & Petitions**
+### **Filing & Petitions**
 
 - Filing deadlines typically fall **spring to early summer** for November elections
 - Many local offices require **petition signatures** to qualify
@@ -83,7 +83,7 @@ Local voters expect **problem-solvers**, not ideologues.
   - In the correct district
   - Submitted by the deadline (no grace period)
 
-**Campaign Finance (Virginia-Specific)**
+### **Campaign Finance (Virginia-Specific)**
 
 - Virginia has **no limits on contribution amounts**
 - All contributions and expenses must be reported to the **Virginia Department of Elections**
@@ -93,7 +93,7 @@ Local voters expect **problem-solvers**, not ideologues.
   - A treasurer
   - Timely and accurate reporting
 
-**Timing & Viability**
+## **Timing & Viability**
 
 Before running, you should be able to answer:
 
@@ -104,7 +104,7 @@ Before running, you should be able to answer:
 
 **Right time + right seat + right environment = opportunity**
 
-**How Local Campaigns Actually Communicate**
+## **How Local Campaigns Actually Communicate**
 
 At the local level, **mail still matters-a lot**.
 
@@ -115,7 +115,7 @@ At the local level, **mail still matters-a lot**.
   - Repetition, not one-off pieces
 - Digital helps, but **mail wins local races**
 
-**First Concrete Next Steps**
+## **First Concrete Next Steps**
 
 Before committing, do these things:
 
@@ -125,4 +125,4 @@ Before committing, do these things:
 - Draft a one-page "Why I'm Running"
 - Learn the filing and petition deadlines for your specific office
 
-**If these steps energize you, that's a good sign.**
+## **If these steps energize you, that's a good sign.**

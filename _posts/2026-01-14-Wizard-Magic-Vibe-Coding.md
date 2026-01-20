@@ -2,7 +2,7 @@
 title: Wizard Magic Vibe Coding
 description: Ok, I get it now
 date: 2025-10-23 05:00:00 -0500
-categories: []
+categories: [writing]
 tags: [coding, ai-assistants, gui-tools, local-models, developer-productivity]
 pin: false
 math: true
@@ -12,7 +12,7 @@ image: assets/2026-01-14-Wizard-Magic-Vibe-Coding.jpg
 I finally decided to boot back up my main desktop computer and try out some of the new "AI Coding Assistants" to see what they are capable of. The extensions [Cline Code](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) & [Roo code](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) do this by having a model interface with an IDE. With a [local model](https://localai.io/) you can even do the process fully offline. And with I made 2 simple tools. One was for query the Github API to get a list of my Github stars and the other was to make a semi-automated video editor.
 
 My mind has gone from "gahh, I have to figure all this stuff out to make this program" to "oh, I'm done. Now what else can I add?". Of course, there is going to be the eventual time when the project gets too complex and I'll have to study an entire generated code base or start from scratch. But I don't think I'll ever get there (yet). Most of the tools I'm making now have a few primary purposes and objectives that have either been proprietary software or have a lackluster solution on github.
-I fully believe that for the majority of non-developers a GUI (graphical-user-interface) is the main thing stopping people from trying a piece of software out. 
+I fully believe that for the majority of non-developers a GUI (graphical-user-interface) is the main thing stopping people from trying a piece of software out.
 
 Well guess what, now nobody has an excuse of "well that will take a lot of time to make it interactive, just use terminal".
 

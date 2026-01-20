@@ -8,7 +8,6 @@ pin: false
 math: true
 mermaid: true
 ---
-
 I wrote this for myself for when my computer would occasionally crash or blue screen and my data from https://whatpulse.org/ would get corrupted.
 
 - type in %localappdata%  
