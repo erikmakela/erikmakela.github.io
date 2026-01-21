@@ -12,7 +12,7 @@ image: assets/2019-04-10-My-Ideal-Periodic-Table.jpg
 Looks like the perfect one was made after I wrote it down all these years ago: [https://ptable.com/](https://ptable.com/)
 
 I originally made this list because all of the print versions I had during middle school and high school were too simplistic and I wanted more detail out of it.
-This is probably still the case, however, since I'm not taking physical exams in chemistry I am very satisfied with the online version. The origional visision of this list was to have all this information within the single square that the element takes up of the periodic table. More similar to the one's that you hand up in a classroom than keep in your binder.
+This is probably still the case, however, since I'm not taking physical exams in chemistry I am very satisfied with the online version. The original vision of this list was to have all this information within the single square that the element takes up of the periodic table. More similar to the one's that you hand up in a classroom than keep in your binder.
 
 What it would include:
 

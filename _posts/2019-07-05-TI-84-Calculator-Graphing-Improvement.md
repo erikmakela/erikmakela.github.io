@@ -20,5 +20,6 @@ However, I recently found out this issue can be remedied for this.
 
 **Then change it to something greater than one (example: Xres = 3).** X resolution is at what interval the calculator graphs a plot. I found this extremely useful for speeding up my results during the SATs because I had to wait a significantly less amount of time to graph four different functions on one graph.
 
-#### Limitations
+## Limitations
+
 When you are using the trace function (which finds a certain Y value for a given X, you are much more limited). This process is ONLY for seeing the general shape of the graph. Adjusting this X Resolution effects everything from the Table, Calculating Minimums and maximums, and all other functions that are used to find exact Y coordinates. This setting does NOT reset when the calculator turns off.

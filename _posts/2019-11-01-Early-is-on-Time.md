@@ -16,4 +16,4 @@ Whenever I would clean up my tent and area I would be the first one done. While 
 I would be the first one to finish yet the one to help almost everyone.
 **I was disincentivize from being early because being early meant more work**
 
-However, when it comes to showing up to appointments it is extremely nice to be early. I have taken this to such an extremely that now I can leave a 10-minute buffer in my schedule and that buffer would almost always be used for either relaxing before an event or preparing more for whatever was going to happen next. 
+However, when it comes to showing up to appointments it is extremely nice to be early. I have taken this to such an extremely that now I can leave a 10-minute buffer in my schedule and that buffer would almost always be used for either relaxing before an event or preparing more for whatever was going to happen next.

@@ -8,7 +8,7 @@ pin: false
 math: true  
 mermaid: true  
 ---
-##Recipe:
+## Recipe
 
 0\. Make in small quantities, does not taste as good when leftover
 
@@ -20,7 +20,7 @@ mermaid: true
 
 4\. Wait until desired texture is reached
 
-##Script for a video (I forgot like half the ingredients, lol):
+## Script for a video (I forgot like half the ingredients, lol)
 
 Alright today we are going to making some vegetable soup
 

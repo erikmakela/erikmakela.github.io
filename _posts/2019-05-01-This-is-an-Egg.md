@@ -13,4 +13,4 @@ This is an egg. At first you don’t care about the egg and say “hey that’s 
 
 There are two options to take after this road. One, you shall give up in cracking the and say “I will never be as good as them, I used to be, but I am not any longer”. Or two, you shall be patient and relearn how to crack the egg slowly but over time knowing you might be as fast as you used to. This is the very frustrating path, and few succeed but patience is the key and with it and enough time you can get to doing anything.
 
-I originally made this as an analogy when I recently forgot some [__Algorithms__](https://ruwix.com/the-rubiks-cube/rubiks-cube-patterns-algorithms/) to solve a Rubix Cube 3×3.
+I originally made this as an analogy when I recently forgot some [__Algorithms__](https://ruwix.com/the-rubiks-cube/rubiks-cube-patterns-algorithms/) to solve a Rubik's Cube 3×3.

@@ -17,4 +17,4 @@ I wrote this for myself for when my computer would occasionally crash or blue sc
 - then press Previous Versions  
 - then recover
 
-It’s a good software but I wouldn’t recommend it now as I prefer open-source alternatives. There is currently nothing similiar to it but with how easy it is to vibe code today I plan on making an alternative soon. If anyone wants to make it I’m putting a $100-$200 bounty on the app to support the development.
+It’s a good software but I wouldn’t recommend it now as I prefer open-source alternatives. There is currently nothing similar to it but with how easy it is to vibe code today I plan on making an alternative soon. If anyone wants to make it I’m putting a $100-$200 bounty on the app to support the development.

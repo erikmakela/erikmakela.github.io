@@ -8,7 +8,7 @@ pin: false
 math: true
 mermaid: true
 ---
-**Note: If you or a friend is struggling with this topic I would advise this website https://easypeasymethod.org and to seek help wherever available.**
+**Note: If you or a friend is struggling with this topic I would advise this website <https://easypeasymethod.org> and to seek help wherever available.**
 
 > This is a qualitative research paper that attempts neutral in its analysis and is meant to add to the literature. Most of my literature review was based off of the systematic review of 'de Alarcón, Rubén, et al.' and the primary sources listed in that paper. 
 
