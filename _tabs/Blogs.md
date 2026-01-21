@@ -12,3 +12,4 @@ order: 10
 - <https://jamesclear.com/>
 - <https://protocol.bryanjohnson.com/>
 - <https://wisdom.srisriravishankar.org/>
+- <https://ploum.net>
