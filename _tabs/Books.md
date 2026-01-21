@@ -8,11 +8,11 @@ I am heavily a non-fiction reader. If you've explored my Movie, Show, or Podcast
 However, the reason that I never have had a positive association with fictional stories is because they were the only ones that I would ready for an extended period of time for my English classes. Somehow, during my entire course of education I by most means and standards passed all my classes by a high margin without a textbook. This is because my reading speed is actually relatively slow compared to comprehension based on application, power point + note taking, or raw memorization.
 It was very frustrating for myself that a single chapter would take away a portion of my night away from me (that I would otherwise be playing video with, haha). The fact that I could read non-fiction whenever I wanted and at whatever pace that I wanted when not in a class application highly appealed to me and has became my go-to ever since.
 
-As I have grown in my reading habits I have come to understand that the story is a tool of comprehension. It is not meant to confuse or delay, but to build that which can't be seen. Or in less fancy terms - the reader interpets their own theme. That specifically is why The Go-Giver is on my list and is one of my favorites to this day.
+As I have grown in my reading habits I have come to understand that the story is a tool of comprehension. It is not meant to confuse or delay, but to build that which can't be seen. Or in less fancy terms - the reader interprets their own theme. That specifically is why The Go-Giver is on my list and is one of my favorites to this day.
 
-So what do I recommend? This is quite difficult because I'm unaware as to who you are. Usually, I try to tailor my reccoemdnations for what would be the most helpful to a specific person at a certain point in time. Since that's not that case, I'll try to give as many as I can.
+So what do I recommend? This is quite difficult because I'm unaware as to who you are. Usually, I try to tailor my recommendations for what would be the most helpful to a specific person at a certain point in time. Since that's not that case, I'll try to give as many as I can.
 
-### Reccomendations
+# Recommendations
 
 **The Go-Giver** - The Go-Giver tells the story of an ambitious young man named Joe who yearns for success (This was the turning point book for understanding why cooperation will always succeed over a competitive one)
 
