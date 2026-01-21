@@ -9,7 +9,7 @@ math: true
 mermaid: true
 ---
 
-**Joke Script for a Video I never made**
+## **Joke Script for a Video I never made**
 
 I've have had the consumeristic need for useless stuff lately
 

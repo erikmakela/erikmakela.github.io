@@ -9,7 +9,7 @@ math: true
 mermaid: true
 image: assets/2026-01-14-Why-I-Like-FOSS.jpg
 ---
-## I have amassed more than 500 github stars. Why?
+## I have amassed more than 500 GitHub stars. Why?
 
 We have come to a point in time with software where it is extremely easy for most simple problem to be coded (with the use of coding assistants) and the marginal amount of effort to make them are significantly low. An ideal world and following the logic to its end is a world is software can be customized to an individual and still have a widescale use. I don't believe we are anywhere near that world but definitely one step towards it.
 

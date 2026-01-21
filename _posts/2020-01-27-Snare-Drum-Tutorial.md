@@ -8,7 +8,7 @@ pin: false
 math: true  
 mermaid: true  
 ---
-**This is a script I made for an unmade video that was heavliy inspired by [Bass Drum Group's](https://www.youtube.com/@BASSDRUMGROUP) style of videos**
+**This is a script I made for an unmade video that was heavily inspired by [Bass Drum Group's](https://www.youtube.com/@BASSDRUMGROUP) style of videos**
 
 So, 8th grader that has been doing percussion. You want to play the snare drum, ok. I guess I can help. The first thing you need to get down is the grip. Traditional which consist of this mess on the left hand and a nice match grip on the right hand. For now let's focus on the right hand, simple, take the stick, pinch it with you thumb and your index finger. Then guess what you are done all you have to do is wrap the rest of your finger around the stick and boom match grip, just make sure to keep all fingers on the stick, \*Especially that pinkie!\*. AHHHHHHHHH.
 

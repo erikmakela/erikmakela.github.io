@@ -10,4 +10,5 @@ mermaid: true
 image: assets/2025-01-10-Les-Miserables-Microphone-Setup.png
 ---
 Screenshot taken from [Les Misérables - On Set: Sound & Mixing Featurette](https://www.youtube.com/watch?v=aCfJZgd0WVQ)
+
 That's how close it is.

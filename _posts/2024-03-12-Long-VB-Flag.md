@@ -11,7 +11,7 @@ image:
   path: /assets/2024-03-12-Long-VB-Flag.png
 ---
 
-With the number of tourists in 2022 towering to 13.6 million visitors in VB, I find peculiar that this part of the city's design has not been changed since the date of our original seal of 1963 (_Virginia Beach, 2023; Virginia Beach, n.d._).
+With the number of tourists in 2022 towering to 13.6 million visitors in VB, I find disturbing that this part of the city's design has not been changed since the date of our original seal of 1963 (_Virginia Beach, 2023; Virginia Beach, n.d._).
 
 **[Back in 2015 a YouTube video labeled 'Why city flags may be the worst-designed thing you've never noticed by Roman Mars' list an example of poorly designed city flags - with Virginia Beach prominently at the middle-bottom of a TED talk viewed by over 5 million people](https://www.youtube.com/watch?v=pnv5iKB2hl4) (Image 1)**
 

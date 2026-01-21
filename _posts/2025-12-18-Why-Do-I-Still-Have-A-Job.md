@@ -9,7 +9,7 @@ math: true
 mermaid: true
 image: assets/2025-12-18-Why-Do-I-Still-Have-A-Job.jpg
 ---
-In around 2023 I first started working on a project utilizing MegaDetector (now Pytorch-Wildlife) that came about when I was trying to automate my animal classification and labeling job using image detection models as a research assistant. In that time I came across a book simply titled "Reproducible Analysis with R". In section 6.4 there is simple an image titled ["Multiple Tables" ](https://nceas.github.io/sasap-training/materials/reproducible_research_in_r_fairbanks/images/excel-org-02.png). It pictures one of the easiest ways that data can become unorganized - that there are different observations or pieces of data within the same row. This problem of course is relatively easy to fix if you put them into separate tables. However, this "fix" compounds over time as more imperfections take place, making it difficult to analyze or visualize the data. 
+In around 2023 I first started working on a project utilizing [MegaDetector](https://github.com/agentmorris/MegaDetector) (now [Pytorch-Wildlife](https://microsoft.github.io/CameraTraps/)) that came about when I was trying to automate my animal classification and labeling job using image detection models as a research assistant. In that time I came across a book simply titled "Reproducible Analysis with R". In section 6.4 there is simple an image titled ["Multiple Tables" ](https://nceas.github.io/sasap-training/materials/reproducible_research_in_r_fairbanks/images/excel-org-02.png). It pictures one of the easiest ways that data can become unorganized - that there are different observations or pieces of data within the same row. This problem of course is relatively easy to fix if you put them into separate tables. However, this "fix" compounds over time as more imperfections take place, making it difficult to analyze or visualize the data. 
 
 Before I go in further, I'm going to make conflicting opinions because I hold the two foundational beliefs in regard to AI, LLMs, and Automation and why people will still have jobs in the coming future.
 
@@ -22,19 +22,19 @@ When I read about the concept of ["management execution apps"](https://fourminut
 
 In Derek Thompson's podcast 'Plain English' there was an idea that came up of "Emptying email inbox as a competency of AGI". I think this is an extremely inefficient and incorrect way to think about the future of AGI and job replacement with the context of ["Live in the future, then build what's missing" from Paul Graham](https://paulgraham.com/startupideas.html). By using a metric of email - We are solving today's problems, not building tomorrow's solution.
 
-To give an example of this - the RSS/Atom Feed. There is a plethora of reasons why it was not widely adopted. (such as not being able to collect information about who subscribes to a feed, aka data collection instead of privact). But it is a dramatically more energy friendly way to post content to followers than newsletters, that require you to send an email individually to each subscriber. 
+To give an example of this - the RSS/Atom Feed. There is a plethora of reasons why it was not widely adopted. (such as not being able to collect information about who subscribes to a feed, aka data collection instead of privacy). But it is a dramatically more energy friendly way to post content to followers than newsletters, that require you to send an email individually to each subscriber.
 
 >**The Newsletter solved today's problems, RSS built tomorrow's solution.**
 
 >**LLMs/AI solve today's problem. Structured data builds tomorrow's solutions**
 
-For the area I live in of Hampton roads there are collection of RSS feed and Newletter's to know what's going to happen in the area. You can use an LLM to organize this data. [For example - the project I'm currently working on at-least has 20+ sources that I'm pulling from. I'm going to leave that secret and say 'subscribe to my newsletter' - because well it has a columniation of almost all the events in the area and I like to provide you value :)]. However, it would have been much easier for me if everything was an RSS feed so I wouldn't have to HTTPS scrape a website individually for their blog post and updates.
+For the area I live in of Hampton roads there are collection of RSS feed and Newsletter's to know what's going to happen in the area. You can use an LLM to organize this data. [For example - the project I'm currently working on at-least has 20+ sources that I'm pulling from.]. However, it would have been much easier for me if everything was an RSS feed so I wouldn't have to HTTPS scrape a website individually for their blog post and updates.
 
 Then I came across [ai-2027](https://ai-2027.com/) that "predict[s] that the impact of superhuman AI over the next decade will be enormous, exceeding that of the Industrial Revolution. This raised an eyebrow for me.
 
 For those that have any experience with power automate, n8n, Zapier, IFTTT, Decisions.ai there are many finite and specific pieces at play that make a workflow either succeed or fail. A huge portion of that is error correction and decisions trees. When I was recently trying to make my own process, I came upon a very particular problem. When I was parsing an HTML document to get a string of characters for my URL link. Every single time through an LLM model it would mess up the link and change it up even with variability set to zero. I ultimately gave up because the marginal benefit was not there when a model was able to efficiently pull all other information and links. 
 
-To say again: **LLMs/AI solve today's problem. Structured data builds tommorrow's solutions**
+To say again: **LLMs/AI solve today's problem. Structured data builds tomorrow's solutions**
 
 * Why don't we have a fully auditable government? Because of Data Silos
 * Why do I still have a job? Because of data silos, unorganized data, and limited business structurization relative to what is needed for automation

@@ -9,15 +9,16 @@ math: true
 mermaid: true
 image: assets/2025-10-23-The-Nonprofit-Test.jpg
 ---
-## How do this come about?
+## How did this come about?
+
 "If you received $10k from other people and had influential power in a nonprofit organization what would you do?"
 People seem to flat out fail this test because most of the time they say 'I'd donate it to charity'
 This recently came up because I recently (link to other article) - made my own nonprofit to use my company nonprofit benefits matching. I am now in a situation in which I'd like to make a positive and unique impact on my community but do not know what to do. Hence, the creation of this question and test for other people.
 
-## A rewrite of The Shopping Cart test, The Nonprofit Test:
+## A rewrite of The Shopping Cart test, The Nonprofit Test
 
 > The nonprofit test is the ultimate litmus test for whether a person is capable of self-philanthropy.
-> To donate money to those in need is an easy, convient task and one which we all recognize as the corrent, appropriate thing to do. To help those in need is objectively right. There are no situations other than dire emergencies in which a person is not able to spend the money. Simultaneously, it is not illegal to abandon the nonprofit money. Therefore, the nonprofit organization presents itself as the apex example of whether a person will do what is right without being forced to do it. No one will punish you for not spending nonprofit money, no one will fine you or kill you for not returning the donated nonprofit money. You must lead the nonprofit organization out of the goodness of your own heart. You must delegate the money because it is the right thing to do. Because it is correct.
+> To donate money to those in need is an easy, convenient task and one which we all recognize as the correct, appropriate thing to do. To help those in need is objectively right. There are no situations other than dire emergencies in which a person is not able to spend the money. Simultaneously, it is not illegal to abandon the nonprofit money. Therefore, the nonprofit organization presents itself as the apex example of whether a person will do what is right without being forced to do it. No one will punish you for not spending nonprofit money, no one will fine you or kill you for not returning the donated nonprofit money. You must lead the nonprofit organization out of the goodness of your own heart. You must delegate the money because it is the right thing to do. Because it is correct.
 > A person who is unable to do this is no better than your average person, who can only be made to do what is right by guilt tripping them or offering them a tax write-off.
 > The nonprofit test is what determines whether a person is a good or bad member of society.
 

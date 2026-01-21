@@ -57,5 +57,3 @@ If X is less than the cost of a recall, we don't do one.
 "... Which... car company do you work for?"
 
  A major one.
-
-

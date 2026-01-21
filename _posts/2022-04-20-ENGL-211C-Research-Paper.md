@@ -12,11 +12,11 @@ mermaid: true
 
 > This is a qualitative research paper that attempts neutral in its analysis and is meant to add to the literature. Most of my literature review was based off of the systematic review of 'de Alarcón, Rubén, et al.' and the primary sources listed in that paper. 
 
-**Introduction**
+## **Introduction**
 
 Pornography is a billion dollar industry. Pornography is a form of media (be it written, images, or videos) in which the primary purpose is to cause sexual arousal. With the surge in internet use across the world pornographic content has never been more accessible. Yet even with the sexual revolution of the 1960s era, pornography is still prominently of conversational taboo. With many sites including Xvideos, Xnxx, Xhamster, and Pornhub being among the most top visited sites in the world, there is a dissonance between what people do not talk about and what they do. This paper looks into: What is the backstory behind pornography users and what are the individual perceived effects of general pornography use?
 
-**Review of Literature**
+## **Review of Literature**
 
 This literature review explores studies that examine the prevalence, effects, addiction, and treatment of online pornography use. In 2017 Pornhub published a compilation of their yearly usage data which stated: "we did a lot of hosting this year, catering to some 28.5 billion visitors, which turns out to be an average of 81 million people per day!" (2017 Year in Review - Pornhub Insights). This overview from Pornhub also gives a detailed analysis of overall pornography viewer demographics for year over year data. One oversight of the data, however, is that it only pertains to individuals that are actively going to the site. To make up for this, Solano et al. found that "Using all modalities of pornography, 91.5% of men and 60.2% of women herein reported having consumed pornography in the past month" with "the primary function of enhance\[ing\] masturbation" (92). With this statistically significant result it must be asked - by what degree does this consumption leak over to adolescent use? Quadara et al. from their sample found that "Fifty-three per cent of those surveyed had seen online pornography at least once-of which 94% reported viewing online pornography before the age of 14" (37). This means that a substantial amount of kids are seeing sexually explicit content before sexual development or education. Donevan et al. shows that this early exposure can have a substantial compounding effect: "The share of boys who use pornography frequently increased over the three survey cycles; those who reported using pornography daily increased from 11% in 2004 to 24% in 2014." (1125). Interestingly, "there was no change in girls who reported using pornography daily, while the proportion who never used pornography increased from 40% in 2004 to 51% in 2014" (1125). The data collected helps to explain why Pornhub has a seventy to thirty percent split of male to female viewers (2021 Year in Review - Pornhub Insights). The prevalence of pornography within different researcher's samples gives good justification for pornography to be looked into further.
 
@@ -36,7 +36,7 @@ On a pharmacological basis Gola and Potenza experimented with paroxetine as a pr
 
 Finally, the method of Acceptance and Commitment Therapy was explored as a treatment for pornography addition. Acceptance and Commitment Therapy is a regiment of therapy with different exercises to help a person limit problematic use of pornography. With a small sample size they found promising results with an 85% reduction in viewing and a 83% reduction after a 3 month follow-up (Twohig and Crosby). Giving much interest into seeing larger sample sizes being treated with this method while also providing more evidence to pornography use being due to psychological behavior.
 
-**Proposal and Methods  
+## **Proposal and Methods  
 **The general overview of online pornography and its related topic of problematic online pornography use leaves much to be desired. With little consensus and small sample sizes, much of the research done into the topic of treatment leaves more to be retested and confirmed. The conversation for POPU's underlying psychology and neurology also needs to be further explored to get a better understanding of the issue. With pornography's large presence within society, further research is needed for understanding its impact on individuals and how to treat those severely affected.
 
 While effects of online pornography use have been explored the research could also use work. Many studies were focused on interpersonal relationships such as marriage, partnerships, and parent/child connections. Each concluding about the general negative effects of pornography use for ruining those connections. Other areas looked into those such as sexual function. A study found that only Problematic Online Pornography Usage was more associated with sexual health than Frequent Pornography Usage. The final area of literature looked into was how pornography viewing might negatively effect perceptions men have towards women after watching it. Overall, the studies leaned toward a negative view of pornography but in some cases has it as a connection rather than the cause (such as in the case of abusive relationships). With the area of Problematic Online Pornography Usage the main response behind the addiction has multiple theories. Two of the main theories being to reduce anxiety or Problematic Online Pornography Use being the result of a behavioral addiction. With no definitive definition of pornography addiction within the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) there are no clear examples for what exactly constitutes this behavior as a problem.
@@ -84,11 +84,11 @@ The participants were also asked to complete a Short Form Pornography Consumptio
 
 Note. SL sex life; LG life in general; ATS attitudes toward sex; PATOG perception of and attitudes toward the opposite gender; SK sexual knowledge. (P) indicates that the item relates to the positive effect dimension. (N) indicates that the item relates to the negative effect dimension. All items are on a 7-point scale: 1 not at all; 2 to a very small extent; 3 to a small extent; 4 to a moderate extent; 5 to a large extent; 6 to a very large extent; and 7 to an extremely large extent. Effect dimension totals and subscale totals are calculated by averaging the items contributing to the dimension or subscale (Miller et al. 476).
 
-**Results**
+## **Results**
 
 The study focused on three individual male teenagers (19 years old) with varying life experiences. A summary of each individual is described below.
 
-**Participant G - Compulsive Use (Jamal)**
+### **Participant G - Compulsive Use (Jamal)**
 
 Jamal is a Caucasian male who has a bisexual preference. The site frequented most often by Jamal was that of the site Xvideos. Jamal's first time watching pornography was when he was twelve years of age. Throughout the week, Jamal consumes pornography around three to five times. Jamal has shown a common occurrence of compulsive use for a few reasons. Firstly, Jamal says on two separate occasions that it has negatively affected him personally. He first notes that pornography has a negative effect because "it made it difficult \[to get an erection\] for my previous ex\[-relationship\] if she wanted to have sex". Secondly, Jamal mentioned that he perceives his pornography use to be a problem because it "gives me problems getting aroused".
 
@@ -96,7 +96,7 @@ Interestingly, Jamal notes that "I perceive \[my use\] to be a problem because I
 
 Unlike the other two participants within this research Jamal has a history of past drug abuse. To this point he says that "porn isn't the worst thing to be addicted to but it's not great either". While the use of pornography has some weight on his psychology it is not enough to completely cease his use. This non-cessation of use puts Jamal on the side of compulsive use rather than an all consuming addictive use because of the inability for pornography to substantially affect anything besides his sexual health/activies.
 
-**Participant J - Functional Use (Marcus)**
+### **Participant J - Functional Use (Marcus)**
 
 Marcus is a Caucasian male who has pansexual preference. Marcus has a more diverse selection of pornography opting from Luscious, Hanime, or Xvideos depending upon the genre. Marcus's first time watching pornography was when he was nine years old. Throughout the week, Marcus estimates that he consumes pornography around once per day. Marcus's parents know full well of his use of pornography and he does not believe that it has affect his relationship with them to any significant degree.
 
@@ -104,7 +104,7 @@ Marcus has shown his pornography use to be functional for a few reasons. Firstly
 
 Marcus, however, does perceive his pornography use to be a "little bit of a problem". He would like to change his pornography use because he is "blasting off (ejaculating) testostone" due to the fact that sperm/semen contain a plethora of vitamins and nutrients.
 
-**Participant K - Compulsive Use (Antonio)**
+### **Participant K - Compulsive Use (Antonio)**
 
 Antonio is a Caucasian male with a heterosexual preference. Antonio mostly browses the site HQ Porner due to the fact that a majority of amateur pornography was removed from Pornhub. Unlike the other two participants, Antonio was able to recall the first time he viewed pornography: "When I was in third grade I went to the boys and girls club (an after-school activity). I couldn't take the bus home because my mom was still at work." One day at this club a friend told him to visit a particular sight. Unaware of the content, he went and looked up the site and his habit of use has continued ever since. Antonio estimates that he uses pornography around five days a week but has stopped use intermittently when he is too tired for the day.
 
@@ -116,17 +116,17 @@ Lastly, Antonio stated that "When it comes to erectile dysfunction and pornograp
 
 ". Even though Antonio's relationship has not been affected because of his pornography, his use leads to a worse mental state and brain-fog. He has not noticed this brain fog to affect other areas of his life such as schooling grades but has heard it happens to other individuals. This information gives more insight into the ulterior effects of pornography use.
 
-**Short Form Pornography Consumption Effects Scale Visualized**
+### **Short Form Pornography Consumption Effects Scale Visualized**
 
 Figure 1 represents the respondents answers to the Short Form Pornography Consumption Effects Scale. This graph was used to show trends of use between the participants. The graph is split between the positive effect dimension and negative effect dimension (Noted by P and N). Jamal showed a consistent response rate with both positive and negative effects appearing in moderation with the highest rating being 6/7. Marcus had a much higher response rate to the positive effect dimension over negative effects. Antonio has a very spread response with very large impacts in both the positive and negative dimensions. Some data overlaps within figure 1, reference figure 2 for more detail.
 
-![](/assets/2022-04-20-image1.png)
+![image 1](/assets/2022-04-20-image1.png)
 
 Figure 2 is a table chart showing the respondents’ answers and lists the full questions cut by Figure 1 from left to right (top to bottom respectively).
 
-![](/assets/2022-04-20-image2.png)
+![image 2](/assets/2022-04-20-image2.png)
 
-**Discussion**
+## **Discussion**
 
 Within the public, pornography has a wide variety of topical discussion. Ranging from gender, political, and economic issues the topic of pornography has many conflicting voices. These conflicts are understandable given the variety of results of pornography use and the outliers of addiction which might be used as a scare factor of those more staunchly against the use of pornography. In this section the researcher will lay out both the negative and positive argument for pornography and why a balanced approach is advised.
 
@@ -137,7 +137,7 @@ The internet is one of the most uncensorable platforms to be created. With the e
 
 The scope of this research was extremely limited and there are still many areas to be explored. This paper's study had the limitation of a small sample size and the inherent problem of self-perceived rather than actual effects. Further research could look into how pornography use more closely correlated to that of other behavioral problems such as addictive Youtube use (for where the study draws parallels too). The industry and genre of pornography is not going away any time soon. Until a more clear picture can be put on the psychological and neurological effects of pornography, viewer discretion is advised.
 
-Work Cited
+## Work Cited
 
 _2017 Year in Review - Pornhub Insights_. 9 Jan. 2017, <https://www.pornhub.com/insights/2017-year-in-review>.
 

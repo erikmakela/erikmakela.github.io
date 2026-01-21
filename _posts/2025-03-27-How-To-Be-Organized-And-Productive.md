@@ -9,7 +9,9 @@ math: true
 mermaid: true
 image: assets/2025-03-27-How-To-Be-Organized-And-Productive.jpg
 ---
-I made a PowerPoint for my school last to help introduce some of the principals of productivity. I am going to summarize what I think are the most important elements of productivity and why most of the books out there, while useful, may or may not waste your time since each person's definition is different for how to be organized. The inspirations for this post: "Atomic Habits" James Clear, "The 7 Habits of Highly Effective People" Stephen R. Covey, Nathanial Drew Youtube, Matt D'Avella Youtube, Tiago Forte, Better Ideas Youtube
+I made a PowerPoint for my school last to help introduce some of the principals of productivity. I am going to summarize what I think are the most important elements of productivity and why most of the books out there, while useful, may or may not waste your time since each person's definition is different for how to be organized.
+
+The inspirations for this post: "Atomic Habits" James Clear, "The 7 Habits of Highly Effective People" Stephen R. Covey, Nathanial Drew YouTube, Matt D'Avella YouTube, Tiago Forte, Better Ideas YouTube.
 
 ## What are the aspects of productivity?
 
@@ -35,10 +37,10 @@ I made a PowerPoint for my school last to help introduce some of the principals 
 ## Information Collection - Are you aware of what information you are consuming?
 
 - Disinformation, Deepfakes, and Bots post are all part of the modern internet. Make you sure are aware of what is a distraction and what is not.
-- Keep in mind a Signal to Noise Ratio. Realistically, how are you going to keep up if you're subscribed to 500 newsletters, Podcast, or Youtube Channels. If you're within the gaming community this should be readily obvious from your Steam Library Backlog.
+- Keep in mind a Signal to Noise Ratio. Realistically, how are you going to keep up if you're subscribed to 500 newsletters, Podcast, or YouTube Channels. If you're within the gaming community this should be readily obvious from your Steam Library Backlog.
 - Remember that test taking strategies also work for comprehension of ideas - Notes, Underlining, identifying fluff, context clues
 
-## Habits - Not Procrastination - How are you keeping a Rythm in your life?
+## Habits - Not Procrastination - How are you keeping a Rhythm in your life?
 
 - (Examples of habit building are pulled from Atomic Habits)
 - Make it obvious - if you want to eat healthier, put an apple on your counter in plain sight instead of a cookie
@@ -48,12 +50,12 @@ I made a PowerPoint for my school last to help introduce some of the principals 
 
 ## Information Organization - How are you organizing the things you collect?
 
- - Have a unified storage system - platforms are the enemy, simplicity is key (When you think about searching for a file, is everything in one place such a Dropbox. Instead of files being spread across Icloud, Gdrive, Dropbox)
+- Have a unified storage system - platforms are the enemy, simplicity is key (When you think about searching for a file, is everything in one place such a Dropbox. Instead of files being spread across Icloud, Gdrive, Dropbox)
 - 3/2/1 method for data backup = Three data copies, Two types of storage, One offsite backup - losing data is much more costly than unorganized data
 
 ## File Organization - How are you files organized?
 
- - Identify current weak points - "What exactly is in my 'other documents'
+- Identify current weak points - "What exactly is in my 'other documents'
 - 1% Rule and the compound effect - If you reduce the time to find a file from 10 seconds to 5 seconds. Imagine the time you save over the course of your life.
 - File Naming Systems - Becoming your own librarian
 - Really Long Descriptions "Medical Bill from Hospital for the Broken Hand from Falling Off My Bike"
@@ -63,7 +65,7 @@ I made a PowerPoint for my school last to help introduce some of the principals 
 
 ## Other Advice and Consideration
 
- - Have a mobile/online/web version of everything, so you can do anything from anywhere
+- Have a mobile/online/web version of everything, so you can do anything from anywhere
 - Health: get sleep, hydrate, eat good, meditation & stress management
 - SMART Goals - Specific, Measurable, Achievable, Relevant, and Time-Bound
 - Management = Delegation, Leadership = Unifying efforts and goals

@@ -29,7 +29,7 @@ The two series in which this discrepancy pops up between the season finale of Th
 ><https://memory-alpha.fandom.com/wiki/Threshold_(episode)>
 
 - Star date: 49373.4 - May 16,  2372, Time: 15:56:44
-- Final episode "endgame" Stardate: 54973.4 - December 22,  2377, Time: 06:59:02
+- Final episode "endgame" Star date: 54973.4 - December 22,  2377, Time: 06:59:02
 
 ## Underlying Theory and Classification of Warp 10 (Original air date 29 January 1996)
 >
