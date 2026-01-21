@@ -8,7 +8,7 @@ order: 10
 - <https://kewltechblog.com/>
 - <https://dariustwin.com>
 - <https://newsletter.chrisjkoerner.com>
-- <http://www.sexarchive.info/>
+- <https://www.sexarchive.info/>
 - <https://jamesclear.com/>
 - <https://protocol.bryanjohnson.com/>
 - <https://wisdom.srisriravishankar.org/>
