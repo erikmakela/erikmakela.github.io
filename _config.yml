@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Erik Makela # the main title
 
-tagline: Erik Makela's Personal Website, Blog, and Portfolio - A digital garden for my brain # it will display as the subtitle
+tagline: A place for ideas # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Erik Makela's Personal Website, Blog, and Portfolio.
@@ -25,17 +25,17 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
-github:
-  username: erikmakela # change to your GitHub username
+#github:
+#  username: erikmakela # change to your GitHub username
   
 linkedin:
   username: erikmakela # change to your Twitter username
 
-twitter:
-  username: erikmakelava # change to your GitHub username
+#twitter:
+#  username: erikmakelava # change to your GitHub username
 
-instagram:
-  username: erikmakelava # change to your GitHub username
+#instagram:
+#  username: erikmakelava # change to your GitHub username
 
 social:
   # Change to your full name.
@@ -44,10 +44,10 @@ social:
   #email: Firstname.Lastname.VA@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://contact.erikmakela.com/ # change to your GitHub homepage
-    - https://contact.erikmakela.com/ # change to your Twitter homepage
+    #- https://contact.erikmakela.com/ # change to your GitHub homepage
+    #- https://contact.erikmakela.com/ # change to your Twitter homepage
     - https://contact.erikmakela.com/ #Linkedin
-    - https://contact.erikmakela.com/ #Instagram
+    #- https://contact.erikmakela.com/ #Instagram
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     
@@ -96,7 +96,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode:  # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -155,7 +155,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 5
 
 # The base URL of your site
 baseurl: ""
