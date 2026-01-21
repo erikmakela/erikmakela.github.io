@@ -49,7 +49,6 @@ For markets that are going down or declining:
 > "A downtrend is a succession of Lower Lows (LL) and Lower highs (LH)
 
 ![figure 1](/assets/2023-11-01-figure1.png)
-
 *Figure 1 Uptrend and Downtrend*
 
 Market either goes up or down all the time, there is always a trend regardless of the time frame or scale, they expand and contract getting weaker or stronger, but there is always a trend and must be identified because it is the only certain thing in markets, everything else is ambiguous, but the trend is always there and must be respected.
@@ -102,13 +101,11 @@ As we saw in Figure 1, a trend is just a succession of highs and lows, this succ
 When a trend creates a new wave a range is created as well, this range is defined by the consecutive high and low as shown on Figure 2, we call this, a Trading range.
 
 ![figure 2](/assets/2023-11-01-figure2.png)
-
 *Figure 2 Trend Ranges*
 
 A trading range is the area where price will be clustered inside the new wave until it finds its way out, either continuing trend or losing it and reversing in consequence; in order to do such thing, price will oscillate inside the range in form of smaller trends as shown on Figure 3.
 
 ![figure 3](/assets/2023-11-01-figure3.png)
-
 *Figure 3 Creation of a Trading Range*
 
 When price is inside the most recent wave trading range, the smaller trends will show the real fight between supply and demand, it is a period where the imbalance that was ruling the main or principal trend is being re-defined as form of smaller trends with their own highs and lows, this smaller trends test and reverse each other over and over. The process will continue until the imbalance is strong enough to continue or reverse the trend.
@@ -116,13 +113,11 @@ When price is inside the most recent wave trading range, the smaller trends will
 If the imbalance remains in favor of the principal trend it will continue through its original way as shown on Figure 4 and a new wave will be created as, again, a new high and a new low along with a new trading range, this is how trends find continuation.
 
 ![*Figure 4 New Wave and Trading Range Creation as Trend continuation*](/assets/2023-11-01-figure4.png)
-
 *Figure 4 New Wave and Trading Range Creation as Trend continuation*
 
 On figure 5 we can see an example of all of this, I personally to recommend General Electric´s chart for trend learning and practicing, since its price action is so clean, we can identify the trend, its highs, lows, ranges and inside trading range smaller trends quite easily.
 
 ![figure 5](/assets/2023-11-01-figure5.png)
-
 *Figure 5 General Electric Uptrend trend and Ranges*
 
 We could say and conclude then, that for an uptrend, the most important thing is to identify its ability to keep defending every higher low and finding higher highs, creating new up waves in consequence.
@@ -130,7 +125,6 @@ We could say and conclude then, that for an uptrend, the most important thing is
 On figure 6 we can see General Electric´s downtrend and ranges as well, where lower highs and lower lows are clear, as well as the ranges and inside range trends they create.
 
 ![figure 6](/assets/2023-11-01-figure6.png)
-
 *Figure 6 General Electric Down trend and Ranges*
 
 We could say and conclude then, that for a downtrend, the most important thing is to identify its ability to keep defending every lower high and finding lower lows, creating new down waves in consequence.
@@ -158,17 +152,14 @@ For instance, if a downtrend is unable to sustain the Lower Highs, means supply 
 This is what we call a shift and trend reversal or, how I like to name it Trend Invalidation (Figure 7), and, as simple as it sounds, it is one of the most powerful tools you can have for spotting early warnings on a market that is about to run 180°C around, and as simple as it is, most people ignore it.
 
 ![figure 7](/assets/2023-11-01-figure7.png)
-
 *Figure 7 Trend invalidation*
 
 When the old trend is invalidated means market wasn't strong enough to sustain the ongoing trend and it reversed, giving birth to a new trend in consequence with the opposite forces in absolute control, and as we know, the new trend will start feeding itself the other way around developing its own new ranges and consequent waves as a brand new trend and the cycle starts again, as shown in Figure 8 and Figure 9.
 
 ![figure 8](/assets/2023-11-01-figure8.png)
-
 *Figure 8 The creation of a Brand New Trend*
 
 ![figure 9](/assets/2023-11-01-figure9.png)
-
 *Figure 9 The continuation of a Brand new Trend*
 
 Since good things never get old, let's go back to our good old friend General Electric that will clearly show us the example why understanding trends are is so important and powerful.
@@ -176,13 +167,11 @@ Since good things never get old, let's go back to our good old friend General El
 On figure 10, we can see General Electric´s market reversal, it clearly shows how the Uptrend was lost and a new Downtrend was created.
 
 ![figure 10](/assets/2023-11-01-figure10.png)
-
 *Figure 10 General Electric Market Trend Reversal*
 
 To make it more dramatic, let´s have a look at the outcome of Figure 10, on figure 11.
 
 ![figure 11](/assets/2023-11-01-figure11.png)
-
 *Figure 11 General Electrict Outcome after Losing the Trend*
 
 Quite ugly, isn't it? 90% decline, and just look at what happened next, I marked the trading range of the last Wave high during the following 2 moves high. 20 years of market price and trend ruled by the most basic concepts among all, the trend.
@@ -190,7 +179,6 @@ Quite ugly, isn't it? 90% decline, and just look at what happened next, I marked
 Let's now do the opposite with the good GE; On figure 12, we can see how GE gains the trend again after losing around 80% of its value, setting a succession of clear Higher Highs and Higher Lows as an uptrend, doubling its value until market finally reversed once again.
 
 ![figure 12](/assets/2023-11-01-figure12.png)
-
 *Figure 12 General Electric Market Trend Reversal No.2*
 
 Conclusions In function of The Three Wyckoff Laws for Market Trends Reversals and invalidation: For an Uptrend:
