@@ -11,9 +11,7 @@ image:
   path: /assets/2024-03-12-Long-VB-Flag.png
 ---
 
-Greetings City Council Members of Virginia Beach,
-
-My name is Erik Makela and I propose to lead a new initiative to redesign the flag of Virginia Beach (VB). With the number of tourists in 2022 towering to 13.6 million visitors in VB, I find peculiar that this part of the city's design has not been changed since the date of our original seal of 1963 (_Virginia Beach, 2023; Virginia Beach, n.d._).
+With the number of tourists in 2022 towering to 13.6 million visitors in VB, I find peculiar that this part of the city's design has not been changed since the date of our original seal of 1963 (_Virginia Beach, 2023; Virginia Beach, n.d._).
 
 **[Back in 2015 a YouTube video labeled 'Why city flags may be the worst-designed thing you've never noticed by Roman Mars' list an example of poorly designed city flags - with Virginia Beach prominently at the middle-bottom of a TED talk viewed by over 5 million people](https://www.youtube.com/watch?v=pnv5iKB2hl4) (Image 1)**
 
@@ -33,7 +31,7 @@ Flag design, from Kaye (2006), follows the five basic principles of:
 While our city seal is amazing our current flag design is lacking. I position that:
 
 - VB's flag design is poor and in violation of principle 4 of good flag design - No Lettering or Seals. "In most cases, a city flag should represent the entire city, not just the government. Thus, city-wide symbolism is preferred over a city seal or a city logo (government symbols)" (2022 New American City Flags Survey, n.d.).
-- Out of 150 flags ranked by the North American Vexillological Association poll in 2004 (NAVA - the organization of flag scholars) VB places 125<sup>th</sup>, Norfolk 116<sup>th</sup>, and Chesapeake 69<sup>th</sup> out of 150 flags (_Flag Surveys_, n.d.).
+- Out of 150 flags ranked by the North American Vexillological Association poll in 2004 (NAVA - the organization of flag scholars) VB places 125<sup>th</sup>, Norfolk 116<sup>th</sup>, and Chesapeake 69<sup>th</sup> out of 150 flags (_Flag Surveys_, n.d.). With 150th place being the worst flag.
 - VB's tourist position can leverage a new flag design for increased VB revenue, recognition, and civic pride
   - This can be seen from the case of Chicago's flag change. "There's probably at least one store on every block near where I work that sells some sort of Chicago flag paraphernalia" (TED, 2015,4:49; Whet Moser from Chicago Magazine).
   - "When a police officer or a firefighter dies in Chicago, often it's not the flag of the United States on his casket. It can be the flag of the city of Chicago. That's how deeply the flag has gotten into the civic imagery of Chicago" (TED, 2015. 5:26; Kaye, 2006).
@@ -44,11 +42,11 @@ Hence, these points necessitate the need for a new flag design.
 
 - Original Quote: "As we \[people\] move more and more into cities, the city flag will become not just a symbol of that city as a place, but also, it could become a symbol of how the city considers design itself, especially today, as the populace is becoming more design aware. A well-designed flag could be seen as an indicator of how a city considers all its design systems. Its public transit, its parks, its signage. It might seem frivolous, but it's not" (TED, 2015. 15:32).
 
-Multiple case studies can be referenced from NAVA members that have successfully implemented new designs with the help of a special committee (Case Studies in Flag Design, n.d.). All previous redesigns have given a re-consideration of what the city is and what it has become while garnering tremendous community involvement during the process. With sites such as [SpeakUpVB](https://www.speakupvb.com/) the process would be seamless for our city to implement competitions and opinion polls.
+Multiple case studies can be referenced from NAVA members that have successfully implemented new designs with the help of a special committee (Case Studies in Flag Design, n.d.). All previous redesigns have given a re-consideration of what the city is and what it has become while garnering tremendous community involvement during the process. With sites such as [SpeakUpVB](https://www.speakupvb.com/) the process would be seamless for our city to implement competitions and opinion polls. I propose to lead a new initiative to redesign the flag of Virginia Beach (VB). 
 
 You all may know some individuals that have an American flag flying outside their house. It shows that they are proud of the country that they are in and the design behind the flag. We can do the same for Virginia Beach showing their civic pride. By updating our flag, we're not just making a symbolic gesture; we're making another statement about Virginia Beach's commitment to staying relevant and forward-thinking. It's time to update Virginia Beach's flag, joining over 300 other cities in revitalizing their identity (2022 New American City Flags Survey, 2022).
 
-[Here are some examples of flag redesigns that are significantly better](https://www.reddit.com/r/norfolk/comments/1o6t080/i_redesigned_12_virginia_civic_flags_including/)
+[Draft example flag designs for Hampton Roads](https://www.reddit.com/r/norfolk/comments/1o6t080/i_redesigned_12_virginia_civic_flags_including/)
 
 **References**
 
