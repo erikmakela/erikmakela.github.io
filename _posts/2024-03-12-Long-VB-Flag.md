@@ -17,7 +17,7 @@ My name is Erik Makela and I propose to lead a new initiative to redesign the fl
 
 **[Back in 2015 a YouTube video labeled 'Why city flags may be the worst-designed thing you've never noticed by Roman Mars' list an example of poorly designed city flags - with Virginia Beach prominently at the middle-bottom of a TED talk viewed by over 5 million people](https://www.youtube.com/watch?v=pnv5iKB2hl4) (Image 1)**
 
-![food](/assets/2024-03-12-flags.png)
+![flags that suck](/assets/2024-03-12-flags.png)
 
 To be straight forward - a seal on a flag is the prominent loss of an even greater symbol for the city.
 
