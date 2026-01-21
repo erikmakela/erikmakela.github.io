@@ -70,7 +70,7 @@ However, here is my list all sports by watchability from an interactivity, audie
 - Hunting (morally questionable at best)
 - Bowling
 
-#### Not Applicable
+## Not Applicable
 
 - Mixed Disciplines - Triathlon
 - Orienteering - Geocaching
