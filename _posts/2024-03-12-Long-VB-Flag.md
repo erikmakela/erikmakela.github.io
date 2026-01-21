@@ -48,7 +48,7 @@ Multiple case studies can be referenced from NAVA members that have successfully
 
 You all may know some individuals that have an American flag flying outside their house. It shows that they are proud of the country that they are in and the design behind the flag. We can do the same for Virginia Beach showing their civic pride. By updating our flag, we're not just making a symbolic gesture; we're making another statement about Virginia Beach's commitment to staying relevant and forward-thinking. It's time to update Virginia Beach's flag, joining over 300 other cities in revitalizing their identity (2022 New American City Flags Survey, 2022).
 
-[Here are some examples of flag redesigns that are significatnly better](https://www.reddit.com/r/norfolk/comments/1o6t080/i_redesigned_12_virginia_civic_flags_including/)
+[Here are some examples of flag redesigns that are significantly better](https://www.reddit.com/r/norfolk/comments/1o6t080/i_redesigned_12_virginia_civic_flags_including/)
 
 **References**
 
