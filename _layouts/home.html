@@ -1,8 +1,45 @@
+
 ---
 layout: default
 ---
 
 {% include lang.html %}
+
+{%- comment -%}
+Inline safety styles to ensure vertical (block) flow inside post content
+and avoid any Bootstrap flex leakage into headings/lists.
+You can move this to your main stylesheet later if you prefer.
+{%- endcomment -%}
+<style>
+  /* Keep cards visually clean and vertical */
+  .card-wrapper { overflow: hidden; }
+
+  /* Ensure content inside the card flows top-to-bottom */
+  .card-wrapper .card-body { display: block; } /* remove flex behavior */
+  .card-wrapper .content {
+    display: block !important;
+    width: 100%;
+    flex: initial !important;
+  }
+  .card-wrapper .content > * {
+    display: block;
+    width: 100%;
+  }
+
+  /* Image at the top of the card */
+  .card-img-top {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: cover; /* adjust/remove if you don't want cropping with fixed heights */
+  }
+
+  /* Make long words/URLs wrap to avoid accidental horizontal overflow */
+  .card-text.content {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+</style>
 
 {% assign all_pinned = site.posts | where: 'pin', 'true' %}
 {% assign all_normal = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
@@ -10,7 +47,7 @@ layout: default
 {% assign posts = '' | split: '' %}
 
 {%- comment -%}
-Compute which posts to show on this page, preserving pinned-first behavior
+Compute which posts to show on this page, preserving pinned-first behavior.
 {%- endcomment -%}
 {% assign visible_start = paginator.page | minus: 1 | times: paginator.per_page %}
 {% assign visible_end = visible_start | plus: paginator.per_page %}
@@ -51,7 +88,7 @@ Compute which posts to show on this page, preserving pinned-first behavior
 
       {%- comment -%}
       IMAGE AT THE TOP (full width).
-      We resolve post.image robustly and pipe through | relative_url so it works on /page2/ and with baseurl.
+      Resolve post.image robustly and pipe through | relative_url so it works on /page2/ and with baseurl.
       Supports:
         - image: /assets/cover.jpg
         - image: assets/cover.jpg
@@ -93,14 +130,13 @@ Compute which posts to show on this page, preserving pinned-first behavior
           {% assign lqip_attr = 'lqip="' | append: lqip | append: '"' %}
         {% endif %}
 
-        <img
-          class="card-img-top"
-          src="{{ src | relative_url }}"
-          alt="{{ alt }}"{% if lqip_attr %} {{ lqip_attr }}{% endif %}
-        >
+        <img class="card-img-top"
+             src="{{ src | relative_url }}"
+             alt="{{ alt }}"
+             {% if lqip_attr %}{{ lqip_attr }}{% endif %}>
       {% endif %}
 
-      <div class="card-body d-flex flex-column">
+      <div class="card-body">
         <h1 class="card-title my-2">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h1>
@@ -128,6 +164,7 @@ Compute which posts to show on this page, preserving pinned-first behavior
 
         {%- comment -%}
         FULL CONTENT: links remain clickable because the card is not wrapped in an <a>.
+        Removing flex on .card-body + safeguards above ensure headings/lists render vertically.
         {%- endcomment -%}
         <div class="card-text content">
           {{ post.content }}
@@ -140,4 +177,3 @@ Compute which posts to show on this page, preserving pinned-first behavior
 {% if paginator.total_pages > 1 %}
   {% include post-paginator.html %}
 {% endif %}
-``
