@@ -1,14 +1,13 @@
 ---
-title: Scambaiting Tutorial
-description: Scammer Get Scammed
+title: Trending Topics Feed
+description: 
 date: 2026-01-21 05:00:00 -0500
-categories: []
+categories: [Feed]
 tags: []
 pin: false
 math: true
 mermaid: true
 pin: true
-image: assets/2026-01-17-Scambaiting-Tutorial.jpg
 ---
 
 

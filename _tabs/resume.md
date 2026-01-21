@@ -6,17 +6,15 @@ order: 4
 
 # Erik Makela CV
 
-**Contact:** <https://contact.erikmakela.com> | **website:** <https://erikmakela.com> | Address: 649 Newtown Rd Ste 105, Virginia Beach, VA 23462 | DOB Date of Birth: May, 26th, 2001
+**Contact:** <https://contact.erikmakela.com> - **website:** <https://erikmakela.com> - Address: 649 Newtown Rd Ste 105, Virginia Beach, VA 23462 - DOB Date of Birth: May, 26th, 2001
 
 ---
-
-Hi!
 
 ## Education
 
 ### Old Dominion University - Perry Honors College
 
-**BSBA, Finance & Accounting with Honors** | *2021 - 2025*
+**BSBA, Finance & Accounting with Honors** - *2021 - 2025*
 
 - GPA: 3.88/4.0
 - Acquired $11000 of funding for research into artificial intelligence
@@ -24,7 +22,7 @@ Hi!
 
 ### Ocean Lakes High School - Math and Science Academy
 
-**Advanced Diploma with Honors** | 2017-2021
+**Advanced Diploma with Honors** - 2017-2021
 
 - GPA: 4.0617, SAT: 1340
 - Co-Founder of Cinematography and Esports Club
@@ -41,12 +39,11 @@ Hi!
 - [Real Estate Agent/Salesperson - Virginia](https://www.dpor.virginia.gov/LicenseLookup)
 
 ---
-
 ## Relevant Work Experience
 
 ### Capital Group
 
-**Rotational Associate, Analyst** | *Present*
+**Rotational Associate, Analyst** - *Present*
 
 - Engaged In 3 rotations within capital group
 - Rotation 1: ARC - ABOR Resolution and Control
@@ -56,7 +53,7 @@ Hi!
 
 ### Costar Group – [Homes.com](https://Homes.com)
 
-**Sales Extern** | *May 2025*
+**Sales Extern** - *May 2025*
 
 - 1 of 20 people selected to participate in 3-day Sales Externship and Speed Selling competition
 - Observed and supported Account Executives in their daily sales activities and client interactions
@@ -64,38 +61,38 @@ Hi!
 
 ### Huntington Ingalls Industries
 
-**Rates, Budgets, Workers Compensation, And Property Accounting Finance Intern** | *Summer 2024*
+**Rates, Budgets, Workers Compensation, And Property Accounting Finance Intern** - *Summer 2024*
 
 - Managed detailed head-count tracking systems using Excel, ensuring accurate and up-to-date employee data and facilitating streamlined workforce planning
 - Gained proficiency in analyzing and managing rates and overhead budgets, contributing to financial planning and forecasting by tracking expenses and evaluating budgetary performance
 
 ### Streaming Technology Company
 
-**Consultant** | *Spring, 2024* | *Online*
+**Consultant** - *Spring, 2024* - *Online*
 
 - Consulted on website UX and design strategy to improve clarity and messaging flow
 - Advised on digital layout and calls-to-action, contributing to improved follow-through on website landing page interactions
 
 ### Writ Legal
 
-**Operatings Specialist & Financial Analyst** | *03/2022-09/2024* | *Online*
+**Operations Specialist & Financial Analyst** - *03/2022-09/2024* - *Online*
 
 - Optimized business processes and explored alternative avenues for improvement of both manual processes and automation of those processes using Microsoft Power Automate - reduced time by 80%
 - Used operations software, Tristar Winservver Plus, to delegate and coordinate customer orders for legal servicing of court summons
 
 ### Reclamation 2142
 
-**Project Team Lead** | 2017-2020
+**Project Team Lead** - 2017-2020
 
 - Previous Administrator and technical support for the Battlefield 2142 Reclamation Project and Beta - Tester for Project Remaster
 
-### Other Positions: Lifeguard, Embedded Tutor, Desk Clerk, Research Assistant, Boy Scouts of America
+## Other Positions: Lifeguard, Embedded Tutor, Desk Clerk, Research Assistant, Boy Scouts of America
 
 ---
 
 ## Skills
 
-### Creator - Ability to utilize a variety of application suites to create different end products depending upon Project needs - Adobe Premier Pro, Hitfilm Pro, Vegas Movie Studiom Davinci Resolve, Adobe Photoshop, Adobe Audition
+### Creator - Ability to utilize a variety of application suites to create different end products depending upon Project needs - Adobe Premier Pro, Hitfilm Pro, Vegas Movie Studio, Davinci Resolve, Adobe Photoshop, Adobe Audition
 
 ### Web Development - HTML, CSS, Markdown, Adobe Dreamweaver
 
