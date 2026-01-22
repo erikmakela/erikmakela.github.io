@@ -45,7 +45,8 @@ permalink: /feed.xml
     {% endfor %}
   {% endif %}
 
-  <summary type="html">{{ post.content | xml_escape }}</summary> <!-- Changed to Full Preview of Blog for XML -->
+  
+  <summary type="html">{{ post.content }}</summary> <!-- Changed to Full Preview of Blog for XML -->
 
   </entry>
 {% endfor %}
