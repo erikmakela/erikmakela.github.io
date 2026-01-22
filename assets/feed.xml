@@ -47,7 +47,7 @@ permalink: /feed.xml
 
   
   
-<summary>{{ post.description | default: post.excerpt | strip_html | xml_escape }}</summary> <!-- Changed to Full Preview of Blog for XML -->
+<summary type="html">{{ post.content | xml_escape }}</summary> <!-- Changed to Full Preview of Blog for XML -->
 
   </entry>
 {% endfor %}
