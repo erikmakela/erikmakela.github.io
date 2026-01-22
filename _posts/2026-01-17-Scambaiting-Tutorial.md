@@ -50,10 +50,10 @@ image: assets/2026-01-17-Scambaiting-Tutorial.jpg
 
 ## 4. Get an alternative phone number otherwise your real number is going to get spam called
 
-- [Google Voice: Business Phone Number & Systems | Google Workspace](https://workspace.google.com/products/voice/)
-- [Zoom Phone: VoIP Phone Service | Zoom](https://www.zoom.com/en/products/voip-phone/)
+- [Google Voice: Business Phone Number & Systems Google Workspace](https://workspace.google.com/products/voice/)
+- [Zoom Phone: VoIP Phone Service Zoom](https://www.zoom.com/en/products/voip-phone/)
 - <https://www.textnow.com/free-phone-number>
-- [VoIP – Voice Over IP | Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/voip-voice-over-ip)
+- [VoIP – Voice Over IP Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/voip-voice-over-ip)
 
 ## 5. Get the latest active phone numbers and start calling
 
