@@ -3,10 +3,8 @@ layout: default
 ---
 
 <div class="catalogue">
- 
-<div style="border: 1px solid #ff7171; padding: 20px; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px;">
-
   {% for post in paginator.posts %}
+    <div style="border: 1px solid #ff7171; padding: 20px; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px;">
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
         <h1 class="catalogue-title">{{ post.title }}</h1>
@@ -21,10 +19,8 @@ layout: default
           {{ post.content | truncatewords: 1000 }}
         </p>
     </div>
+    </div>
   {% endfor %}
-
-</div>
-
 </div>
 
 <div class="pagination">
