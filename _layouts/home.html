@@ -10,14 +10,14 @@ layout: default
         <div class="catalogue-description"></div>
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
 
+      </div>
+    </a>
+    
         <div>
         <p>
           {{ post.content | truncatewords: 1000 }}
         </p>
         </div>
-
-      </div>
-    </a>
   {% endfor %}
 </div>
 
