@@ -5,20 +5,20 @@ order: 6
 ---
 - Resources by Erik
 
-- #### Tools/Apps
+- ## Tools/Apps
 
   - [ActivityWatch - Open-source time tracker](https://activitywatch.net/)
   - [Whipser - Convert Audio Transcripts Locally](https://huggingface.co/spaces/openai/whisper)
   - [Revoldiv - Convert Audio and Video Files to Text](https://revoldiv.com/)
   - [Citation Graph - Allows you to visually search and identify core research papers](https://citationgraph.org/)
-  - [Connected Papers | Find and explore academic papers in a visual graph](https://www.connectedpapers.com/)
+  - [Connected Papers - Find and explore academic papers in a visual graph](https://www.connectedpapers.com/)
   - [AI Tool for Smarter, Faster Literature Reviews - Similar to Connected Papers](https://www.researchrabbit.ai/)
   - [ZoteroBib: Fast, free bibliography generator - MLA, APA, Chicago, Harvard citations](https://zbib.org/)
-  - [Amazon US price tracker, price history, price watch, price drop alerts, and price notifications. | camelcamelcamel.com](https://camelcamelcamel.com/)
+  - [Amazon US price tracker, price history, price watch, price drop alerts, and price notifications. - camelcamelcamel](https://camelcamelcamel.com/)
   - [Consensus.app | AI academic search engine for peer-reviewed literature](https://consensus.app/)
   - [Submarine Cable Map - The cables that connect the internet around the world](https://www.submarinecablemap.com/)
   - [arcgis](https://www.arcgis.com/apps/mapviewer/index.html)
-  - [CoverageMap.com | Crowdsourced Maps of Cellular Networks](https://coveragemap.com/#maps)
+  - [CoverageMap - Crowdsourced Maps of Cellular Networks](https://coveragemap.com/#maps)
   - [Changdetection.io](https://changedetection.io) and [Distill.io](https://distill.io) - For getting notified for website changes such as tickets
   - [drugs.com - a free drug-information service](https://www.drugs.com/)
   - [Notenote - 3-Dimensional Note taking](https://www.notenote.com/)
@@ -33,7 +33,7 @@ order: 6
   - [Alternative.to - The main resource I use to find Open-Source Alternatives](https://alternativeto.net/platform/windows/?license=opensource&p=192)
   - [The Best Resume Template - To make your Resume look professional](https://sheetsresume.com/resume-template)
 
-- #### Directories
+- ## Directories
 
   - [Open-Slum - The Shadow Library Uptime Monitor](https://open-slum.org/)
   - [Free Media Heck Yeah - The Largest Collection of Free Stuff On The Internet](https://fmhy.net/)
@@ -48,7 +48,7 @@ order: 6
   - [Developer Roadmaps - community effort to create roadmaps, guides and other educational content to help guide software developer learning](https://roadmap.sh/)
   - [Doctor Of Credit - Bank Account & Credit Card Bonuses](https://www.doctorofcredit.com/)
 
-- #### LLMs/AI/Neural Networks
+- ## LLMs/AI/Neural Networks
 
   - [artificialanalysis.ai List of Open-Source Models](https://artificialanalysis.ai/models/open-source)
   - [Uncensored AI Models - Free unrestricted AI chat with no filters](https://uncensored.com/)
@@ -58,7 +58,7 @@ order: 6
   - <https://explorer.globe.engineer>
   - [The grok app - unrelated to Grok AI, for research papers](https://thegrokapp.com/)
 
-- #### Chrome Extensions
+- ## Chrome Extensions
 
   - [Gigabrain - Reddit search engine summaries](https://join.thegigabrain.com/)
   - [Keywords Everywhere - Website Traffic Metrics](https://chromewebstore.google.com/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp?hl=en)
@@ -70,7 +70,7 @@ order: 6
   - [Bitwarden Password Manager](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb?hl=en)
   - [Wayback Machine - Automatically archive any website you visit](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US)
 
-- #### Guides/readings
+- ## Guides/readings
 
   - [Indie Hacker - How to make a good Home or Landing page](https://www.indiehackers.com/post/my-step-by-step-guide-to-creating-the-perfect-landing-page-for-your-saas-d7308631f7)
   - [Types of Website Landing Pages](https://blog.hubspot.com/marketing/landing-page-types)
@@ -84,7 +84,7 @@ order: 6
   - [Forcing Function Performance Assessment](https://www.forcingfunction.com/assessment)
   - [SQ3R Reading Method](https://in.nau.edu/academic-success-centers/sq3r-reading-method/)
 
-- #### Favorite Fonts/Typeface UI
+- ## Favorite Fonts/Typeface UI
 
   - [Time won (higuy)](https://www.dafont.com/time-won.font?text=Hi+Erik)
   - [Aliens Among us (erikcool3)](https://www.dafont.com/aliens-among-us.font?text=hi+erik)
@@ -94,14 +94,14 @@ order: 6
   - [Townscape](https://www.dafont.com/townscape.font?text=hi+erik)
   - [TR2N](https://www.dafont.com/tr2n.font?text=hi+erik)
 
-- #### Bodyweight Fitness
+- ## Bodyweight Fitness
 
   - <https://antranik.org/>
   - [Bodyweight Fitness Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_2017/)
   - [Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength (Second Edition): Low, Steven](https://www.amazon.com/Overcoming-Gravity-Systematic-Gymnastics-Bodyweight/dp/0990873854)
   - [Be Patient When Exercising Nerve Damage](https://www.sandiegouniontribune.com/news/health/sdut-be-patient-when-exercising-damaged-nerve-2012mar27-story.html)
 
-- #### Food and Meal Preperation
+- ## Food and Meal Preperation
 
   - [What The Fuck Should I Make For Dinner](https://whatthefuckshouldimakefordinner.com/)
   - [Metabolical: The Lure and the Lies of Processed Food, Nutrition and Modern Medicine―Unpacking the Science Behind Food and Health: Lustig, Robert H.](https://www.amazon.com/Metabolical-Processed-Nutrition-Modern-Medicine/dp/0063027712)
@@ -114,14 +114,14 @@ order: 6
   - [Slow Cooker Recipes](https://www.reddit.com/r/slowcooking/comments/17dzwnr/what_are_your_favorite_setandforget_recipes/)
   - [Build Muscle On A Budget](https://www.muscleandstrength.com/articles/build-muscle-50-dollar-budget)
 
-- #### Traditional Weightlifting
+- ## Traditional Weightlifting
 
   - [Jim Stoppani's Encyclopedia of Muscle & Strength](https://www.amazon.com/Jim-Stoppanis-Encyclopedia-Muscle-Strength/dp/1450459749)
   - [The Complete Book of Abs: Kurt Brungardt, Brett Brungardt](https://www.amazon.com/Complete-Book-Abs-Revised-Expanded/dp/0375751432)
   - [The New Encyclopedia of Modern Bodybuilding - Arnold schwarzenegger](https://www.amazon.com/New-Encyclopedia-Modern-Bodybuilding-Updated/dp/0684857219)
   - [Mark Rippetoe on Grip Technique](https://www.youtube.com/watch?v=9OK-S3ZJZxQ)
 
-- #### Mental Health
+- ## Mental Health
 
   - [The Tale of the Starfish](https://www.thestarfishchange.org/starfish-tale)
   - [Not Knowing What to Do](https://www.reddit.com/r/selfimprovement/comments/12hk79y/i_genuinely_dont_know_what_to_do_anymore/)
