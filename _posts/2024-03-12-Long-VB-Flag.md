@@ -10,6 +10,7 @@ mermaid: true
 image:
   path: /assets/2024-03-12-Long-VB-Flag.png
 ---
+## **We don't have a flag - we have a city seal on a blue backround**
 
 With the number of tourists in 2022 towering to 13.6 million visitors in VB, I find disturbing that this part of the city's design has not been changed since the date of our original seal of 1963 (_Virginia Beach, 2023; Virginia Beach, n.d._).
 
