@@ -15,7 +15,7 @@ order: 6
   - [AI Tool for Smarter, Faster Literature Reviews - Similar to Connected Papers](https://www.researchrabbit.ai/)
   - [ZoteroBib: Fast, free bibliography generator - MLA, APA, Chicago, Harvard citations](https://zbib.org/)
   - [Amazon US price tracker, price history, price watch, price drop alerts, and price notifications. - camelcamelcamel](https://camelcamelcamel.com/)
-  - [Consensus.app | AI academic search engine for peer-reviewed literature](https://consensus.app/)
+  - [Consensus.app - AI academic search engine for peer-reviewed literature](https://consensus.app/)
   - [Submarine Cable Map - The cables that connect the internet around the world](https://www.submarinecablemap.com/)
   - [arcgis](https://www.arcgis.com/apps/mapviewer/index.html)
   - [CoverageMap - Crowdsourced Maps of Cellular Networks](https://coveragemap.com/#maps)
