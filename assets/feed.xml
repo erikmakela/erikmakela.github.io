@@ -46,7 +46,6 @@ permalink: /feed.xml
   {% endif %}
 
 <content type="html"><![CDATA[{{ post.content }}]]></content>
-<!-- Changed to Full Preview of Blog for XML -->
 
   </entry>
 {% endfor %}
