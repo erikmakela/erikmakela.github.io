@@ -2,8 +2,8 @@
 title: Why the heck do I like FOSS?
 description: Loving Free-Open-Source-Software
 date: 2026-01-14 05:00:00 -0500
-categories: []
-tags: [foss, open-source, software-freedom, customization, digital-creativity]
+categories: [post]
+tags: [foss, open-source, freedom, customization, creativity]
 pin: false
 math: true
 mermaid: true

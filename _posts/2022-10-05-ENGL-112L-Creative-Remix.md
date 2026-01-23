@@ -2,8 +2,8 @@
 title: Creative Remix "The Story of Half an Hour"
 description: Creative Remix for Professor Cheryl Champagne
 date: 2022-10-05 05:00:00 -0500
-categories: []
-tags: [creative-remix, literature-analysis, storytelling, modern-adaptation, fiction]
+categories: [post]
+tags: [remix, literature, storytelling, adaptation, fiction]
 pin: false
 math: true
 mermaid: true

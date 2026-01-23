@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-book
 order: 7
 --- 
 I am heavily a non-fiction reader. If you've explored my Movie, Show, or Podcast recommendations then it's quite obvious that I stick to specific categories.

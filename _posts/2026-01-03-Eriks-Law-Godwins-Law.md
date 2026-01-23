@@ -2,8 +2,8 @@
 title: Erik's Law  
 description: Godwin's Law Part 2  
 date: 2026-01-03 05:00:00 -0500  
-categories: []  
-tags: [technology, ai-discussion, internet-culture, modern-law, humor]  
+categories: [post]
+tags: [tech, ai, internet, law, humor]
 pin: false  
 math: true  
 mermaid: true

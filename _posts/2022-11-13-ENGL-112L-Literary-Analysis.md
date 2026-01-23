@@ -2,8 +2,8 @@
 title: Literary Analysis of Eleven
 description: Litarary Analysis for Professor Cheryl Champagne
 date: 2022-11-13 05:00:00 -0500
-categories: []
-tags: [literary-analysis, sandra-cisneros, eleven, symbolism, coming-of-age]
+categories: [post]
+tags: [literature, cisneros, eleven, symbolism, coming-of-age]
 pin: false
 math: true
 mermaid: true

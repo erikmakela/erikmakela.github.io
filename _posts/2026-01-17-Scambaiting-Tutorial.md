@@ -2,8 +2,8 @@
 title: Scambaiting Tutorial
 description: Scammer Get Scammed
 date: 2026-01-17 05:00:00 -0500
-categories: [guide]
-tags: [scambaiting, cybersecurity, social-engineering, online-safety, tutorials]
+categories: [post]
+tags: [scambaiting, security, social-engineering, safety, tutorials]
 pin: false
 math: true
 mermaid: true

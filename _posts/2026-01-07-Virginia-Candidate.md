@@ -2,8 +2,8 @@
 title: Getting Started as a Candidate in Virginia
 description: How to Get Started in Political Involvement
 date: 2026-01-07 05:00:00 -0500
-categories: [politics]
-tags: [virginia-politics, campaigning, local-elections, voter-data, political-strategy]
+categories: [post]
+tags: [politics, campaigning, elections, voter-data, strategy]
 pin: false
 math: true
 mermaid: true

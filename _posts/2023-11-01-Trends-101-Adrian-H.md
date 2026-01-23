@@ -2,8 +2,8 @@
 title: Market Trends 101 By Adrian H.
 description: Introduction to Technical Analysis
 date: 2023-11-01 05:00:00 -0500
-categories: []
-tags: [technical-analysis, market-trends, wyckoff-method, trading-education, price-action]
+categories: [post]
+tags: [market-analysis, trends, wyckoff, trading, price-action]
 pin: false
 math: true
 mermaid: true

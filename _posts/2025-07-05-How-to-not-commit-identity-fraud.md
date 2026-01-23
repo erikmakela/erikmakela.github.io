@@ -2,8 +2,8 @@
 title: How to Not Commit Identity Fraud
 description: Protect Your Identify
 date: 2025-07-05 05:00:00 -0500
-categories: []
-tags: [security, identity-protection, fraud-prevention, personal-finance, data-safety]
+categories: [post]
+tags: [security, identity, fraud, finance, data-safety]
 pin: false
 math: true
 mermaid: true

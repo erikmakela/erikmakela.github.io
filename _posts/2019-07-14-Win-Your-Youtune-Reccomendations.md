@@ -2,8 +2,8 @@
 title: How To Win Your YouTube Reccomendations
 description: A guide for getting ahead of the all mighty algorithim
 date: 2019-07-14 05:00:00 -0500
-categories: []
-tags: [youtube, algorithms, recommendation-system, digital-hygiene, online-behavior]
+categories: [post]
+tags: [youtube, algorithms, recommendations, digital-hygiene, online-behavior]
 pin: false
 math: true
 mermaid: true

@@ -2,8 +2,8 @@
 title: Fraud Script
 description: The Big Funny
 date: 2020-11-05 05:00:00 -0500
-categories: [comedy]
-tags: [comedy, skit, humor-script, satire, joke-video]
+categories: [post]
+tags: [funny, skit, humor, satire, joke]
 pin: false
 math: true
 mermaid: true

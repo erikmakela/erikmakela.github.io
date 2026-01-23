@@ -3,8 +3,8 @@
 title: Kewltech's Missing Issues  
 description: What are Kewltech's missing articles?  
 date: 2026-01-12 05:00:00 -0500  
-categories: []  
-tags: [kewltech, trading-blog, article-index, speculation, chartgame]  
+categories: [post]
+tags: [kewltech, trading, articles, speculation, chart-game]
 pin: false  
 math: true  
 mermaid: true

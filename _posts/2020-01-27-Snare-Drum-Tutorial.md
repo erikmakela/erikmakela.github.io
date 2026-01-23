@@ -2,8 +2,8 @@
 title: Marching Snare Drum Theory  
 description: Snare Drum Script Inspiration
 date: 2020-01-27 05:00:00 -0500  
-categories: []  
-tags: [drumming, snare-theory, percussion-technique, marching-band, music-education]  
+categories: [post]
+tags: [music, drumming, snare-drum, percussion, education]
 pin: false  
 math: true  
 mermaid: true  

@@ -2,8 +2,8 @@
 title: Audacity Audio Post Processing  
 description: Mike Russel's Guide made simple of "5 Easy Steps for Sounding Better in Audacity"
 date: 2026-01-10 05:00:00 -0500  
-categories: []  
-tags: [audio-editing, audacity, sound-improvement, tutorial, audio-processing]  
+categories: [post]
+tags: [audio, audacity, sound, tutorial, processing]
 pin: false  
 math: true  
 mermaid: true

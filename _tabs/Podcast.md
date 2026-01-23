@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-podcast
 order: 9
 ---
 In my car I either do two things - listen to podcast or listen to nothing and think. I mostly am either informing myself on recent credit card Churning activities or getting a laugh or two in. I follow very few individuals as I find it more fun to go through the backlog of people's publishing's rather than jump around to many different podcasts.

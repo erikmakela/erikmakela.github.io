@@ -2,8 +2,8 @@
 title: Wizard Magic Vibe Coding
 description: Ok, I get it now
 date: 2025-10-23 05:00:00 -0500
-categories: [writing]
-tags: [coding, ai-assistants, gui-tools, local-models, developer-productivity]
+categories: [post]
+tags: [coding, ai, gui, models, productivity]
 pin: false
 math: true
 mermaid: true

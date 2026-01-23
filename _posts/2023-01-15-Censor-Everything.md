@@ -2,8 +2,8 @@
 title: Censor Everything
 description: The Time for a Truely Open Web
 date: 2023-01-15 05:00:00 -0500
-categories: []
-tags: [open-web, decentralization, digital-censorship, self-hosting, internet-freedom]
+categories: [post]
+tags: [internet, decentralization, censorship, hosting, freedom]
 pin: false
 math: true
 mermaid: true

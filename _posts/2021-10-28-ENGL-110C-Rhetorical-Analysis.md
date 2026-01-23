@@ -2,8 +2,8 @@
 title: Rhetorical Analysis of Germany’s Neo-Nazis & The Far Right
 description: Rhetorical Analysis for Professor Kathryn Bennett
 date: 2021-10-28 05:00:00 -0500
-categories: []
-tags: [rhetorical-analysis, far-right, neo-nazism, documentary-review, politics]
+categories: [post]
+tags: [analysis, far-right, neo-nazism, documentary, politics]
 pin: false
 math: true
 mermaid: true

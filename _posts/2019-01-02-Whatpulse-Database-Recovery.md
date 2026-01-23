@@ -2,8 +2,8 @@
 title: WhatPulse Database Recovery
 description: A guide to recover a corrupted WhatPulse Database File
 date: 2019-01-02 05:00:00 -0500
-categories: []
-tags: [whatpulse, data-recovery, windows-tips, open-source, tech-notes]
+categories: [post]
+tags: [software, recovery, windows, open-source, tech]
 pin: false
 math: true
 mermaid: true

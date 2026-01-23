@@ -2,8 +2,8 @@
  title: Deep Thoughts  
 description: Glimpses from the Light from the Holy Land  
 date: 2020-01-09 05:00:00 -0500  
-categories: [dark-humor, comedy, deep-thoughts, satire, absurdism]  
-tags: []  
+categories: [post]
+tags: [humor, reflections, life-lessons, thoughts, musings]
 pin: false  
 math: true  
 mermaid: true  

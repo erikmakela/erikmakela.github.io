@@ -3,8 +3,8 @@
 title: Battlefield 2142 Game Tips List  
 description: An improved list from Game Banana
 date: 2019-01-26 05:00:00 -0500  
-categories: []  
-tags: [battlefield-2142, game-tips, asymetric-design, fps-games, gaming-guides]  
+categories: [post]
+tags: [gaming, battlefield, fps, game-strategy, tips-and-tricks]
 pin: false  
 math: true  
 mermaid: true  

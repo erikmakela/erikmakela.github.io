@@ -2,8 +2,8 @@
 title: I agree with Derek Thompson, Everything is Television.
 description: On Youtube Channels, Deviation to Content, and Accidentally reaching what, exactly?
 date: 2025-10-23 05:00:00 -0500
-categories: []
-tags: [television, attention-economy, digital-media, algorithm-awareness, online-habits]
+categories: [post]
+tags: [television, media, algorithms, online-habits]
 pin: false
 math: true
 mermaid: true

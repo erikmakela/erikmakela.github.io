@@ -2,9 +2,8 @@
 title: FOSS Friday Feature - Gitea
 description: Self-Hosted Software Feature
 date: 2026-01-02 04:00:00 -0500
-categories: [Self-Hosting]
-tags: [Git Hosting, Version Control, Open Source, Collaboration Tool, Software Development
-]
+categories: [post]
+tags: [git, version-control, open-source, collaboration, software]
 pin: false
 math: true
 mermaid: true

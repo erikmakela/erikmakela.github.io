@@ -2,8 +2,8 @@
 title: How to Listen and Learn
 description: Some rules to keep in mind 
 date: 2019-05-20 05:00:00 -0500
-categories: []
-tags: [critical-thinking, skepticism, lifelong-learning, open-mindedness, personal-philosophy]
+categories: [post]
+tags: [self-improvement, critical-thinking, learning, open-mindedness, philosophy]
 pin: false
 math: true
 mermaid: true

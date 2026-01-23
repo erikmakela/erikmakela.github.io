@@ -1,6 +1,6 @@
 ---
 # Last updated on 2026-01-17
-icon: fas fa-info-circle
+icon: fas fa-link
 order: 6
 ---
 - Resources by Erik

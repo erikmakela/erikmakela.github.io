@@ -1,0 +1,69 @@
+<!-- Newsletter Banner -->
+<style>
+  /* Default (light mode) */
+  #newsletter-banner {
+    background-color: #2563eb; /* nice blue */
+    color: #ffffff; /* white text */
+    border: 1px solid #1d4ed8; /* darker blue border */
+  }
+
+  #newsletter-banner a {
+    background-color: #f43f5e; /* pink/red button */
+    color: #ffffff;
+    text-decoration: none;
+  }
+
+  #newsletter-banner a:hover {
+    background-color: #dc2626; /* darker red on hover */
+  }
+
+  /* Dark mode */
+  @media (prefers-color-scheme: dark) {
+    #newsletter-banner {
+      background-color: #1e293b; /* dark slate blue */
+      color: #f1f5f9; /* light gray text */
+      border: 1px solid #334155; /* slightly lighter border */
+    }
+
+    #newsletter-banner a {
+      background-color: #f87171; /* softer red button */
+      color: #1e293b;
+    }
+
+    #newsletter-banner a:hover {
+      background-color: #ef4444; /* darker red hover */
+    }
+  }
+</style>
+
+<div
+  id="newsletter-banner"
+  style="
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    max-width:800px;
+    margin:1 auto;
+    padding:1rem 1rem;
+    border-radius:10px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.1);
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  "
+>
+  <span style="font-size:1rem; font-weight:500;"> 📬 Subscribe to my newsletter </span>
+
+  <a
+    href="https://listmonk.erikmakela.com/subscription/form"
+    style="
+      display:inline-block;
+      padding:.6rem 1.2rem;
+      border-radius:8px;
+      font-weight:600;
+      font-size:.95rem;
+      transition: background 0.2s;
+    "
+  >
+    Subscribe
+  </a>
+</div>
+<!-- Newsletter Banner -->

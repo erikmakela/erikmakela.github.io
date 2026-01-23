@@ -2,8 +2,8 @@
 title: A Lesson of Teamwork
 description: Aka how to be roasted by your Instructor
 date: 2019-10-02 05:00:00 -0500  
-categories: []  
-tags: [marching-band, instructor-feedback, rehearsal-notes, teamwork, accountability]  
+categories: [post]
+tags: [music, marching-band, teamwork, feedback, accountability]
 pin: false  
 math: true  
 mermaid: true  

@@ -2,8 +2,8 @@
 title: Coolmath and Competition
 description: How a little penguin taught me about more than birds
 date: 2026-01-14 05:00:00 -0500
-categories: []
-tags: [competition, coolmath-games, compound-effect, childhood-lessons, game-strategy]
+categories: [post]
+tags: [competition, coolmath, compound-effect, childhood, strategy]
 pin: false
 math: true
 mermaid: true

@@ -1,3 +1,15 @@
+---
+title: Lessons as a Nine-Year-Old
+description: Reflections on learning and growth
+date: 2019-06-19 05:00:00 -0500
+categories: [post]
+tags: [self-improvement, coding, learning, problem-solving, minecraft]
+pin: false
+math: true
+mermaid: true
+image: assets/2019-06-19-Lessons-as-a-nine-year-old.jpg
+---
+
 What was my one goal in life as a nine year old? To download hacks (otherwise know as cheats) in Minecraft. I said to myself "If I can get hacks, I can do anything".
 This was probably my first attempt at understanding code and computers. As simple as downloading a modpack was - **I simply did not know how to do it and would have to learn**.
 

@@ -2,8 +2,8 @@
 title: Single Serving Narration - Fight Club  
 description: Script for me to narrate over the song "Single Serving Jack"
 date: 2026-01-01 05:00:00 -0500  
-categories: []  
-tags: [fightclub, narration-script, single-serving, movie-dialogue, audio-project]  
+categories: [post]
+tags: [fight-club, narration, single-serving, dialogue, audio]
 pin: false  
 math: true  
 mermaid: true

@@ -2,8 +2,8 @@
 title: What is the Best Sport?
 description: My biased list of fun sports to watch
 date: 2019-07-14 05:00:00 -0500
-categories: []
-tags: [sports-ranking, watchability, personal-opinion, sports-list, entertainment]
+categories: [post]
+tags: [sports, ranking, watchability, opinion, entertainment]
 pin: false
 math: true
 mermaid: true

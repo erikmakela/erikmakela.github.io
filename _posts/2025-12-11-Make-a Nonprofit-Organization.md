@@ -2,8 +2,8 @@
 title: Virginia Non-Profit Setup Guide
 description: How to make a non-profit organization for the state of Virginia
 date: 2025-12-11 05:00:00 -0500  
-categories: []  
-tags: [nonprofit, ethics, leadership, self-governance, philanthropy]  
+categories: [post]
+tags: [nonprofit, ethics, leadership, governance, philanthropy]
 pin: false  
 math: true  
 mermaid: true

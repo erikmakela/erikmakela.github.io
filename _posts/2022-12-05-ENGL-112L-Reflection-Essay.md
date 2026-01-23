@@ -2,8 +2,8 @@
 title: English 112L Reflection Essay
 description: Reflection Essay for Professor Cheryl Champagne
 date: 2022-12-05 05:00:00 -0500
-categories: []
-tags: [reflection-essay, literature, class-reading, personal-growth, analysis]
+categories: [post]
+tags: [reflection, literature, reading, growth, analysis]
 pin: false
 math: true
 mermaid: true

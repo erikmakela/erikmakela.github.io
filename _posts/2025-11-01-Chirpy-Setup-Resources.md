@@ -2,8 +2,8 @@
 title: Jekyll Theme Chirpy Setup Resources
 description: How I setup this website
 date: 2025-10-23 05:00:00 -0500
-categories: []
-tags: [jekyll, chirpy-theme, website-setup, cloudflare-pages, static-site]
+categories: [post]
+tags: [jekyll, chirpy, website, cloudflare, static]
 pin: false
 math: true
 mermaid: true

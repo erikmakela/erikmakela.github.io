@@ -2,8 +2,8 @@
 title: Becoming a 'Betterer' Writer
 description: Reflective Essay for Professor Kathryn Bennett
 date: 2020-11-01 05:00:00 -0500
-categories: [comedy]
-tags: [writing, revision-process, academic-writing, composition-skills, self-reflection]
+categories: [post]
+tags: [writing, revision, academic, composition, reflection]
 pin: false
 math: true
 mermaid: true

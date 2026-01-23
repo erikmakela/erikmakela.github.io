@@ -1,22 +1,28 @@
 ---
 layout: default
 ---
+{% include banner.html %}
+
 <div class="catalogue">
   {% for post in paginator.posts %}
-    <div style="border: 1px solid #ff7171; padding: 10x; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px;">
-        <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
-        <div>
-            <h1 class="catalogue-title">{{ post.title }}</h1>
-            <p class="post-desc fw-light mb-4">{{ page.description }}</p>
-            <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
-        </div>
-        </a>
+    <div style="border: 1px solid #ff7171; padding: 20px; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px;">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+        <!-- <div> -->
+        <h1 class="catalogue-title" style="color: #7053f3; text-decoration: underline; margin-top:0">
+          {{ post.title }}
+        </h1>
+        <p class="post-desc fw-light mb-0">{{ post.description }}</p>
+        <time datetime="{{ post.date }}" class="catalogue-time" style="display:block; margin:0; line-heigh:1;">
+          {{ post.date | date: '%B %d, %Y' }}
+        </time>
+        <!-- </div> -->
+      </a>
 
-        <div>
-            <p>
-            {{ post.content | truncatewords: 1000 }}
-            </p>
-        </div>
+      <div style="overflow-wrap: break-word; word-wrap: break-word; margin: 5px; padding: 2px;">
+        <!-- <p> -->
+        {{ post.content | truncatewords: 1000 }}
+        <!-- </p> -->
+      </div>
     </div>
   {% endfor %}
 </div>
@@ -25,12 +31,16 @@ layout: default
   <div class="flex-container">
     <div>
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><i class="fas fa-angle-left"></i>&nbspNewer</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"
+          ><i class="fas fa-angle-left"></i>&nbspNewer</a
+        >
       {% endif %}
     </div>
     <div>
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older&nbsp<i class="fas fa-angle-right"></i></a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}"
+          >Older&nbsp<i class="fas fa-angle-right"></i
+        ></a>
       {% endif %}
     </div>
   </div>

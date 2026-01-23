@@ -2,8 +2,8 @@
 title: Do Not Use a Drain Line Adapter or Check Valve For A Reverse Osmosis Filter System
 description: A Warning
 date: 2025-10-23 05:00:00 -0500
-categories: []
-tags: [reverse-osmosis, plumbing-safety, home-water-systems, backflow-warning, diy-plumbing]
+categories: [post]
+tags: [reverse-osmosis, plumbing, water-systems, backflow, diy]
 pin: false
 math: true
 mermaid: true

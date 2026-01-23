@@ -2,8 +2,8 @@
 title: College T-shirt Tier List
 description: How I got free shirts 
 date: 2021-05-01 05:00:00 -0500
-categories: []
-tags: [college-freebies, tier-list, personal-story, freebies-guide, college-mailers]
+categories: [post]
+tags: [college, freebies, tier-list, personal-story, guide]
 pin: false
 math: true
 mermaid: true

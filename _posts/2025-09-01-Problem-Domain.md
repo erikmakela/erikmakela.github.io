@@ -2,8 +2,8 @@
 title: Problem Domains  
 description: Excerpt from Operating Systems From 0 to 1   
 date: 2025-11-03 05:00:00 -0500  
-categories: []  
-tags: [software-engineering, problem-domains, domain-knowledge, system-design, programming-theory]  
+categories: [post]
+tags: [engineering, domains, knowledge, design, programming]
 pin: false  
 math: true  
 mermaid: true

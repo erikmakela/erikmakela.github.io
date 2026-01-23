@@ -2,8 +2,8 @@
 title: "Early is On-Time, On-Time is Late, and Late is Ear"
 description: Why quotes sometimes fail.
 date: 2019-11-01 05:00:00 -0500
-categories: []
-tags: [punctuality, time-management, personal-growth, scouting-experience, life-lessons]
+categories: [post]
+tags: [time-management, punctuality, personal-growth, scouting, life-lessons]
 pin: false
 math: true
 mermaid: true

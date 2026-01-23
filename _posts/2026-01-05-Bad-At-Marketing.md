@@ -2,8 +2,8 @@
 title: Why am I so bad at marketing? Insecurity, Over Thinking, and Writing
 description: 
 date: 2026-01-05 05:00:00 -0500
-categories: []
-tags: [marketing, personal-branding, operational-security, public-writing, insecurity]
+categories: [post]
+tags: [marketing, branding, security, writing, insecurity]
 pin: false
 math: true
 mermaid: true

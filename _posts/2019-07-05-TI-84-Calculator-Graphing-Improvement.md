@@ -2,8 +2,8 @@
 title: 100x Faster TI-84 Calculator 
 description: Speed Up TI-84 Calculator by 100x for Graphing 
 date: 2019-07-05 05:00:00 -0500 
-categories: [] 
-tags: [ti-84, calculator-tips, graphing-speed, math-tools, tech-hack] 
+categories: [post]
+tags: [technology, calculator, graphing, math-tools, tips-and-tricks]
 pin: false 
 math: true 
 mermaid: true

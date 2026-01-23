@@ -2,8 +2,8 @@
 title: Death by Wall. The Saint Valentine's Day Massacre
 description: True Crime Essay for Professor Steffani Dambrunch
 date: 2022-01-26 05:00:00 -0500
-categories: []
-tags: [truecrime, st-valentines-massacre, organized-crime, historical-analysis, al-capone]
+categories: [post]
+tags: [crime, valentines-massacre, organized-crime, history, capone]
 pin: false
 math: true
 mermaid: true

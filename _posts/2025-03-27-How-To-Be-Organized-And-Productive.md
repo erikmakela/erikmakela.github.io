@@ -2,8 +2,8 @@
 title: Guide to Organization and Productivity
 description: How I Organize My Life
 date: 2025-03-27 05:00:00 -0500
-categories: []
-tags: [productivity, organization, time-management, habits, information-systems]
+categories: [post]
+tags: [productivity, organization, time-management, habits, systems]
 pin: false
 math: true
 mermaid: true

@@ -2,8 +2,8 @@
 title: The Paradox of NFTs
 description: Non-Fungible Tokens NFT and Their Future - ENGL 110C Argumentative Essay - Professor Kathryn Bennett
 date: 2021-12-05 05:00:00 -0500
-categories: []
-tags: [nfts, blockchain-limitations, digital-ownership, tech-critique, web3-debate]
+categories: [post]
+tags: [nfts, blockchain, digital-ownership, technology, web3]
 pin: false
 math: true
 mermaid: true

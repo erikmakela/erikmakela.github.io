@@ -2,8 +2,8 @@
 title: This is an Egg
 description: A soliloquy of skill 
 date: 2019-05-06 05:00:00 -0500
-categories: []
-tags: [motivation, learning-curve, perseverance, rubiks-cube, personal-growth]
+categories: [post]
+tags: [self-improvement, motivation, learning, perseverance, rubiks-cube]
 pin: false
 math: true
 mermaid: true

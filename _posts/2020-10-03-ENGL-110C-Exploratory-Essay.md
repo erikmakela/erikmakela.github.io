@@ -2,8 +2,8 @@
 title: Commentary on The Social Contract
 description: Exploratory Essay for Professor Kathryn Bennett
 date: 2020-10-03 05:00:00 -0500
-categories: []
-tags: [social-contract, political-theory, civic-engagement, online-discourse, society]
+categories: [post]
+tags: [contract, politics, engagement, discourse, society]
 pin: false
 math: true
 mermaid: true

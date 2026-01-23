@@ -2,8 +2,8 @@
 title: Why do I still have a Job? 
 description: Because everything is still done in Email and Excel. A long somewhat coherent rant. On AI, LLMs, and Structured Data.
 date: 2025-10-23 05:00:00 -0500
-categories: []
-tags: [data, automation, structured-information, ai-limitations, work-culture]
+categories: [post]
+tags: [data, automation, structured-data, ai, work]
 pin: false
 math: true
 mermaid: true

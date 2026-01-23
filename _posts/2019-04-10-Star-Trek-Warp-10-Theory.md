@@ -2,8 +2,8 @@
 title: The Warp 10 Paradox   
 description: A Star Trek Theory
 date: 2019-04-10 05:00:00 -0500  
-categories: []  
-tags: [star-trek-theory, warp-drive, science-fiction, voyager, continuity-errors]  
+categories: [post]
+tags: [science-fiction, star-trek, warp-drive, tv-series, plot-analysis]
 pin: false  
 math: true  
 mermaid: true

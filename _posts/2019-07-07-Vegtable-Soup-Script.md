@@ -2,8 +2,8 @@
 title: Some Good Soup   
 description: A vegtable soup recipe that I learned in 8th grade home economics class
 date: 2019-07-07 05:00:00 -0500  
-categories: []  
-tags: [recipe, cooking, vegetable-soup, home-ec, humor]  
+categories: [post]
+tags: [cooking, recipe, vegetable-soup, home-economics, humor]
 pin: false  
 math: true  
 mermaid: true  

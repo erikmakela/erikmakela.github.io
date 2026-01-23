@@ -2,8 +2,8 @@
 title: Cryptocurrency is Forex
 description: Medium of exchange and low liquidity risk - on why I don’t understand people’s confusion of cryptocurrency
 date: 2026-01-14 05:00:00 -0500
-categories: []
-tags: [crypto, forex-comparison, medium-of-exchange, digital-currency, economic-theory]
+categories: [post]
+tags: [crypto, forex, exchange, digital-currency, economics]
 pin: false
 math: true
 mermaid: true

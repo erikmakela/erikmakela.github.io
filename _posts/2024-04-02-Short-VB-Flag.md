@@ -2,8 +2,8 @@
 title: The Virginia Beach Flag Sucks - Spoken to City Council
 description: Why the Flag of Virginia Beach Should be Changed
 date: 2024-04-02 05:00:00 -0500
-categories: [politics]
-tags: [flag-design, vexillology, urban-identity, virginia-beach, civic-pride]
+categories: [post]
+tags: [flag-design, vexillology, identity, virginia-beach, civic-pride]
 pin: false
 math: true
 mermaid: true

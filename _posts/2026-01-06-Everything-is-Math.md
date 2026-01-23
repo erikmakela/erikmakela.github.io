@@ -2,8 +2,8 @@
 title: Everything is Math
 description: Vizualizing Math, Linear Alegra, And Matrix Multiplication in LLMs
 date: 2026-01-06 05:00:00 -0500
-categories: []
-tags: [math, linear-algebra, llm-visualization, transformer-models, matrix-math]
+categories: [post]
+tags: [math, algebra, llm, transformers, matrix]
 pin: false
 math: true
 mermaid: true

@@ -2,8 +2,8 @@
 title: The Altered Shopping Cart Test - The Nonprofit Test
 description: Leadership and nonprofit organization as a measure of self-governance
 date: 2025-10-23 05:00:00 -0500
-categories: [politics]
-tags: [ethics, nonprofit-leadership, self-governance, philosophy, civic-responsibility]
+categories: [post]
+tags: [ethics, leadership, governance, philosophy, responsibility]
 pin: false
 math: true
 mermaid: true

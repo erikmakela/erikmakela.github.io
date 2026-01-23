@@ -2,8 +2,8 @@
 title: My Ideal Periodic Table  
 description: My Middle and Highschool Dream
 date: 2019-04-10 05:00:00 -0500  
-categories: []  
-tags: [periodic-table, chemistry, element-data, science-notes, study-tools]  
+categories: [post]
+tags: [science, chemistry, elements, education, study-resources]
 pin: false  
 math: true  
 mermaid: true

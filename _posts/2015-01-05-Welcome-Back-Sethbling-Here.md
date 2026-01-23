@@ -2,8 +2,8 @@
 title: Welcome Back, Sethbling Here
 description: If you know you know
 date: 2015-01-05 05:00:00 -0500
-categories: []
-tags: [sethbling, minecraft, youtube-classics, nostalgia, memes]
+categories: [post]
+tags: [gaming, youtube, nostalgia, culture, memes]
 pin: false
 math: true
 mermaid: true

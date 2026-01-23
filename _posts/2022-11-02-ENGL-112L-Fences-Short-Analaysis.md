@@ -2,8 +2,8 @@
 title: Fences Short Analysis
 description: Story Analysis for Professor Cheryl Champagne
 date: 2022-11-02 05:00:00 -0500
-categories: []
-tags: [creative-remix, literature-analysis, storytelling, modern-adaptation, fiction]
+categories: [post]
+tags: [fences, analysis, storytelling, adaptation, fiction]
 pin: false
 math: true
 mermaid: true

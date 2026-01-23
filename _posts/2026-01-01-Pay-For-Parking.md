@@ -2,8 +2,8 @@
 title: Don't be a dummy, Pay for Parking.
 description: Why Should You Pay for Parking? Because of Present Value
 date: 2026-01-01 05:00:00 -0500
-categories: []
-tags: [finance, present-value, parking-costs, decision-making, personal-economics]
+categories: [post]
+tags: [finance, value, parking, decisions, economics]
 pin: false
 math: true
 mermaid: true
