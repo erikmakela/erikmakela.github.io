@@ -7,7 +7,7 @@ layout: default
   {% for post in paginator.posts %}
     <div style="border: 1px solid #ff7171; padding: 20px; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px;">
       <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
-        <h1 class="catalogue-title" text-decoration: underline; margin-top:0;">
+        <h1 class="catalogue-title" style="text-decoration: underline; margin-top: 0;">
           {{ post.title }}
         </h1>
         <p class="post-desc fw-light mb-0">{{ post.description }}</p>
