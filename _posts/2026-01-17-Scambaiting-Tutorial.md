@@ -58,14 +58,3 @@ image: assets/2026-01-17-Scambaiting-Tutorial.jpg
 ## 5. Get the latest active phone numbers and start calling
 
 - [Latest Scams topics](https://scammer.info/c/scams/5) for the most active community
-
-## 6. Legal Gray Area - Attack Back and RAT
-
-"RAT" or the use of a Remote-Access-Trojan is the ability to gain access to the scammer's computer through a number of cybersecurity infiltration techniques. If you are able to install a RAT it is highly advised to partner or reach out to those more experienced. The reason it is a legal gray area is because you are using software to gain unauthorized access to a host. However, I'm willing to put all my marbles on the fact that no competent law enforcement office or prosecution attorney is going to care if you have solid proof of their operation being a scam.
-
-Here are some YouTube videos to get you started as I have limited knowledge being successful in this area:
-
-- <https://www.youtube.com/watch?v=BmksHoxNqCw>
-- <https://www.youtube.com/watch?v=cXEkSQl9wmw>
-
-Note: Certain undisclosed RAT software's have back doors installed, please be careful when downloading this software as it can be infected itself.
