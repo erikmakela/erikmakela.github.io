@@ -14,18 +14,23 @@ mermaid: true
 </video>
 
 <p>
-  Download my Spleef V3 –
+  Download my Spleef V3 litematic –
   <a
     href="/assets/erikcool3_spleef_v3.litematic"
     download
     class="download-btn"
   >
-    Spleef V2 Download
+    Spleef V3 Download
   </a>
 </p>
 
+## Features
+- Many custimizable modes to play with
+- Anolog score keeper
+- Automatic Reset Build
+
 <p>
-  Download the inspiration Spleef V2 –
+  Download the inspiration Spleef V2 litematic –
   <a
     href="/assets/spleef_nether_v2.litematic"
     download
