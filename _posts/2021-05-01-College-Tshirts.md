@@ -12,7 +12,7 @@ Back when I was about to graduate highschool on October 21st, 2019 I saw a youtu
 <https://freecollegeshirts.weebly.com/>/>. I got them.
 Here was the Tier list that I made for my friends and at-least the ones I received. Arizona State Univeristy was the most generious by sending me two when I accidentally batched an email twice.
 
-(NEED TO GET PICTURE OF TIER LIST)
+![collegetierlist](/assets/collegetierlist.png)
 
 Also, for anyone who is still trying to do it today here's the full list.
 I wouldn't reccomend it for the most part as only a few shirts were actually worth it. Along with the fact that you're less likely to receive them today due to the wave of spam back in 2020 that the colleges got.
