@@ -10,6 +10,6 @@ mermaid: true
 ---
 ![Spleef](/assets/spleef.mp4)
 
-![Spleef V3 Download](/assets/erikcool3_spleef_v3.litematic)
+Download to the Spleef V3 - ![Spleef V3 Download](/assets/erikcool3_spleef_v3.litematic)
 
-![Spleef V2 Download](/assets/spleef_nether_v2.litematic)
+Download to the Spleef V2 - ![Spleef V2 Download](/assets/spleef_nether_v2.litematic)
