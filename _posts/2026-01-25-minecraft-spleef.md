@@ -8,7 +8,7 @@ pin: false
 math: true
 mermaid: true
 ---
-<video controls width="640">
+<video controls style="max-width:100%; height:auto;">
   <source src="/assets/spleef.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -40,4 +40,4 @@ mermaid: true
   </a>
 </p>
 
-[Credits - Urubar34 on Reddit](https://www.reddit.com/r/Minecraft/comments/ns7lvn/i_have_designed_and_then_build_a_spleef_arena_for/)
+[Credits to inspiration - Urubar34 on Reddit](https://www.reddit.com/r/Minecraft/comments/ns7lvn/i_have_designed_and_then_build_a_spleef_arena_for/)
