@@ -47,6 +47,8 @@ order: 6
   - [Trendshift.io - curated collection of open-source repositories](https://trendshift.io/)
   - [Developer Roadmaps - community effort to create roadmaps, guides and other educational content to help guide software developer learning](https://roadmap.sh/)
   - [Doctor Of Credit - Bank Account & Credit Card Bonuses](https://www.doctorofcredit.com/)
+  - [RSS.Social – the latest and best from small sites across the web | Hacker News](https://news.ycombinator.com/item?id=46700503)
+  - [Court Listener](https://www.courtlistener.com/), Search millions of legal decisions by case name, topic, or citation
 
 - ## LLMs/AI/Neural Networks
 
