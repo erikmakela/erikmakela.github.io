@@ -1,7 +1,7 @@
 ---
 title: Hologram (Interactive)
 description: 
-date: 2026-01-2026 05:00:00 -0500
+date: 2026-01-26 05:00:00 -0500
 categories: [feed]
 tags: [code]
 pin: false
