@@ -9,6 +9,7 @@ math: true
 mermaid: true
 pin: false
 ---
+{% raw %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,7 +24,6 @@ pin: false
       background: black;
     }
 
-    /* Credits header */
     header {
       position: fixed;
       top: 0;
@@ -50,7 +50,8 @@ pin: false
 <body>
 
 <header>
-  Visual experiment by Jeff Thomas <a href="https://codepen.io/aecend/pen/ExWwoQL" target="_blank" rel="noopener noreferrer">
+  Visual experiment by Jeff Thomas
+  <a href="https://codepen.io/aecend/pen/ExWwoQL" target="_blank" rel="noopener noreferrer">
     @toshiya-marukubo
   </a>
 </header>
@@ -87,9 +88,7 @@ pin: false
       for (let i = 0; i < height; i += diameter) {
         for (let j = 0; j < halfWidth; j += diameter) {
           for (let channel = 0; channel < 3; channel++) {
-            if (channel === 0) ctx.fillStyle = '#FF0000';
-            if (channel === 1) ctx.fillStyle = '#00FF00';
-            if (channel === 2) ctx.fillStyle = '#0000FF';
+            ctx.fillStyle = ['#FF0000', '#00FF00', '#0000FF'][channel];
 
             const index = i * width + j;
             ctx.globalAlpha = Math.tan(index * index - time);
@@ -124,3 +123,4 @@ pin: false
 
 </body>
 </html>
+{% endraw %}
