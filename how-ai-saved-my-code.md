@@ -10,3 +10,4 @@ mermaid: true
 pin: false
 ---
 "How AI saved my trash code and research project"
+and how I accidentally became an expert on AI visual identification tools for conservation
