@@ -34,3 +34,6 @@ guarantee of any return, since no one may volunteer.
 > And on the individual machine level, I've been finding TDD loops are astonishingly effective with the latest generation of models. You can consider that a learning loop - I even sometimes have them write notes about what they learned at the end - although aside from those notes the slate gets cleared every time you start a new session.
 
 [Simon Willison](https://lobste.rs/s/cmsfbu/don_t_fall_into_anti_ai_hype)
+
+> Tokens all the way down. People used to compare humans to computers and before that to machines. Those analogies fell short and this one will too
+[Moltbook is the most interesting place on the internet right now, HackerNews](https://news.ycombinator.com/item?id=46826963)
