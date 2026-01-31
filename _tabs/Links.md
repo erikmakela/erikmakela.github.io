@@ -53,6 +53,7 @@ order: 6
 - ## LLMs/AI/Neural Networks
 
   - [artificialanalysis.ai List of Open-Source Models](https://artificialanalysis.ai/models/open-source)
+  - [[llm-stats AI Leaderboards - Compare and rank the best AI models](https://llm-stats.com/)]
   - [Uncensored AI Models - Free unrestricted AI chat with no filters](https://uncensored.com/)
   - [Retrieval-Augmented Generation (RAG) Tool List](https://noworneverev.github.io/Awesome-RAG/)
   - [theresanaiforthat.com - Search Engine for AI apps](https://theresanaiforthat.com/)

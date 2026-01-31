@@ -37,3 +37,21 @@ guarantee of any return, since no one may volunteer.
 
 > Tokens all the way down. People used to compare humans to computers and before that to machines. Those analogies fell short and this one will too
 [Moltbook is the most interesting place on the internet right now, HackerNews](https://news.ycombinator.com/item?id=46826963)
+
+>As a developer with a bottomless wishlist of things I wish I could have done or tried out, I have been able to use LLM tools to not just rapidly prototype and validate complex ideas, but actually write good quality production-grade software (my own subjective metric, of course) with better code than I could have written manually—things where I knew exactly what I had to do, but was constrained by physical limits, and also things that were unclear to me and needed novel ideas, approaches, and leaps. All the while, learning and bettering my own understanding of things.
+> ...
+>Remember the old adage, “programming is 90% thinking and 10% typing”? It is now, for real.
+> ...
+> The reality is that the significant majority of the code written by humans globally on a daily basis, is likely borderline junk.[12] Software development is not even a discipline that has reached any objective level of maturity. Medical doctors and civil engineers go through rigorous training to be issued licenses that are contingent on real world ramifications of their work. How about software developers and engineers?
+> ...
+> Code was always a means to an end. Unlike poetry or prose, end users don’t read or care about code. They don’t care what language or framework or the architecture the hundred systems running behind a portal are made of. Code is hidden. They interact with the effect and outcomes of code through various forms of UX.
+> ...
+> FOSS is perhaps the greatest public commons that humanity has created. The genesis of FOSS and its predecessors, various schemes for sharing code, can be traced to the fundamental premise that software was prohibitively expensive and required immense specialist skills to create.
+>...
+>Soon, one is stuck with a codebase whose workings one doesn’t understand, and one is forced to go back to the genie and depend on it helplessly. And because one is hooked on and dependent on the genie, the natural circumstances that otherwise would allow for foundational and fundamental skills and understanding to develop, never arise, to the point of cognitive decline
+[Code is cheap. Show me the talk. Kailash Nadh's](https://nadh.in/blog/code-is-cheap/)
+
+<https://jslegenddev.substack.com/p/you-should-make-web-games>
+
+> Moral of the story: even insane-looking problems are sometimes real. 
+[Ice Cream Cone Car](https://www.snopes.com/fact-check/cone-of-silence/)
