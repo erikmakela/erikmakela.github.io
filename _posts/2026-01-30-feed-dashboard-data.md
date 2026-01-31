@@ -55,3 +55,6 @@ guarantee of any return, since no one may volunteer.
 
 > Moral of the story: even insane-looking problems are sometimes real. 
 [Ice Cream Cone Car](https://www.snopes.com/fact-check/cone-of-silence/)
+
+> We’ve already seen entire categories begin to be eaten up by AI: Stack Overflow and Chegg were early victims, but now we’re seeing pressure on new sectors.
+[Software Survival 3.0, Steve Yegge](https://steve-yegge.medium.com/software-survival-3-0-97a2a6255f7b)
