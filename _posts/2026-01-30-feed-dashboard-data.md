@@ -1,7 +1,7 @@
 ---
 title: 2026-01-30-feed-dashboard-data
 description: 
-date: 2026- 05:00:00 -0500
+date: 2026-01-30 05:00:00 -0500
 categories: [feed]
 tags: [hpc, dataviz, ai, llm]
 pin: false
